@@ -1,0 +1,624 @@
+[
+  {
+    "name": "Mega Venusaur",
+    "id": 3,
+    "number": "003",
+    "image": "/megaEvolutions/003_mega.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/003_megaS.png",
+    "height": "2.4 m",
+    "weight": "155.5 kg",
+    "category": "Seed",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Mega Charizard X",
+    "id": 6,
+    "number": "006",
+    "image": "/megaEvolutions/006_megaX.png",
+    "type": [
+      "Fire",
+      "Dragon"
+    ],
+    "backGroundColor": "#0a6dc4",
+    "weaknesses": [
+      "Ground",
+      "Rock",
+      "Dragon"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/006_megaXs.png",
+    "height": "1.7 m",
+    "weight": "110.5 kg",
+    "category": "Flame",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Mega Charizard Y",
+    "id": 6,
+    "number": "006",
+    "image": "/megaEvolutions/006_megaY.png",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/006_megaYs.png",
+    "height": "1.7 m",
+    "weight": "100.5 kg",
+    "category": "Flame",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Gigantamax Charizard ",
+    "id": 6,
+    "number": "006",
+    "image": "/megaEvolutions/006_max.png",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "generation": 8,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/006_maxs.png",
+    "height": ">28.0 m",
+    "weight": "???.? kg",
+    "category": "Flame",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Mega Blastoise",
+    "id": 9,
+    "number": "009",
+    "image": "/megaEvolutions/009_mega.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Grass",
+      "Electric"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/009_megas.png",
+    "height": "1.6 m",
+    "weight": "101.1 kg",
+    "category": "Shellfish",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Gigantamax Blastoise",
+    "id": 9,
+    "number": "009",
+    "image": "/megaEvolutions/009_max.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Grass",
+      "Electric"
+    ],
+    "generation": 8,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/009_maxs.png",
+    "height": ">25.0 m",
+    "weight": "???.? kg",
+    "category": "Shellfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gigantamax Butterfree",
+    "id": 12,
+    "number": "012",
+    "image": "/megaEvolutions/012_max.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "backGroundColor": "#8fa8dd",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 8,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/012_maxs.png",
+    "height": ">17.0 m",
+    "weight": "???.? kg",
+    "category": "Shellfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mega Beedrill",
+    "id": 15,
+    "number": "015",
+    "image": "/megaEvolutions/015_mega.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/015_megas.png",
+    "height": "1.4 m",
+    "weight": "40.5 kg",
+    "category": "Poison Bee",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Mega Pidgeot",
+    "id": 18,
+    "number": "018",
+    "image": "/megaEvolutions/018_mega.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/018_megas.png",
+    "height": "2.2 m",
+    "weight": "50.5 kg",
+    "category": "Bird",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Alolan Rattata",
+    "id": 19,
+    "number": "019",
+    "image": "/megaEvolutions/019_alola.png",
+    "type": [
+      "Dark",
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fairy",
+      "Bug",
+      "Fighting"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/019_alolas.png",
+    "height": "0.3 m",
+    "weight": "3.8 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Raticate",
+    "id": 20,
+    "number": "020",
+    "image": "/megaEvolutions/020_alola.png",
+    "type": [
+      "Dark",
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fairy",
+      "Bug",
+      "Fighting"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/020_alolas.png",
+    "height": "0.7 m",
+    "weight": "25.5 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gigantamax Pikachu",
+    "id": 25,
+    "number": "025",
+    "image": "/megaEvolutions/025_max.png",
+    "type": [
+      "Electric"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 8,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/025_maxs.png",
+    "height": ">21.0 m",
+    "weight": "???.? kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Raichu",
+    "id": 26,
+    "number": "026",
+    "image": "/megaEvolutions/026_alola.png",
+    "type": [
+      "Electric",
+      "Psychic"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/026_alolas.png",
+    "height": "0.7 m",
+    "weight": "21.0 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "id": 27,
+    "number": "027",
+    "image": "/megaEvolutions/027_alola.png",
+    "type": [
+      "Ice",
+      "Steel"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/027_alolas.png",
+    "height": "0.7 m",
+    "weight": "40.0 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Sandslash",
+    "id": 28,
+    "number": "028",
+    "image": "/megaEvolutions/028_alola.png",
+    "type": [
+      "Ice",
+      "Steel"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/028_alolas.png",
+    "height": "1.2  m",
+    "weight": "55.0 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Vulpix",
+    "id": 37,
+    "number": "037",
+    "image": "/megaEvolutions/037_alola.png",
+    "type": [
+      "Ice"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Fire",
+      "Steel",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/037_alolas.png",
+    "height": "0.6  m",
+    "weight": "9.9 kg",
+    "category": "Fox",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Ninetales",
+    "id": 38,
+    "number": "038",
+    "image": "/megaEvolutions/038_alola.png",
+    "type": [
+      "Ice",
+      "Fairy"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Fire",
+      "Steel",
+      "Poison",
+      "Rock"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/038_alolas.png",
+    "height": "1.1  m",
+    "weight": "19.9 kg",
+    "category": "Fox",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Diglett",
+    "id": 50,
+    "number": "050",
+    "image": "/megaEvolutions/050_alola.png",
+    "type": [
+      "Ground",
+      "Steel"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/050_alolas.png",
+    "height": "0.2  m",
+    "weight": "1.0 kg",
+    "category": "Mole",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Dugtrio",
+    "id": 51,
+    "number": "051",
+    "image": "/megaEvolutions/051_alola.png",
+    "type": [
+      "Ground",
+      "Steel"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/051_alolas.png",
+    "height": "0.7  m",
+    "weight": "66.6 kg",
+    "category": "Mole",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Meowth",
+    "id": 52,
+    "number": "052",
+    "image": "/megaEvolutions/052_alola.png",
+    "type": [
+      "Dark"
+    ],
+    "backGroundColor": "#5a5366",
+    "weaknesses": [
+      "Fairy",
+      "Bug",
+      "Fighting"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/052_alolas.png",
+    "height": "0.4  m",
+    "weight": "4.2 kg",
+    "category": "Scratch Cat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Meowth",
+    "id": 52,
+    "number": "052",
+    "image": "/megaEvolutions/052_galarian.png",
+    "type": [
+      "Dark"
+    ],
+    "backGroundColor": "#5a5366",
+    "weaknesses": [
+      "Fairy",
+      "Bug",
+      "Fighting"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/052_galarians.png",
+    "height": "0.4  m",
+    "weight": "7.5 kg",
+    "category": "Scratch Cat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gigantamax Meowth",
+    "id": 52,
+    "number": "052",
+    "image": "/megaEvolutions/052_max.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#5a5366",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/052_maxs.png",
+    "height": ">33.0  m",
+    "weight": "???.? kg",
+    "category": "Scratch Cat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Persian",
+    "id": 53,
+    "number": "053",
+    "image": "/megaEvolutions/053_alola.png",
+    "type": [
+      "Dark"
+    ],
+    "backGroundColor": "#5a5366",
+    "weaknesses": [
+      "Fairy",
+      "Bug",
+      "Fighting"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/053_alolas.png",
+    "height": "1.1  m",
+    "weight": "33.0 kg",
+    "category": "Classy Cat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Hisuian Growlithe",
+    "id": 58,
+    "number": "058",
+    "image": "/megaEvolutions/058_hisuian.png",
+    "type": [
+      "Fire",
+      "Rock"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "HISUI",
+    "shiny": "/megaEvolutions/058_hisuians.png",
+    "height": "0.8  m",
+    "weight": "22.7 kg",
+    "category": "Scout",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Hisuian Arcanine",
+    "id": 59,
+    "number": "059",
+    "image": "/megaEvolutions/059_hisuian.png",
+    "type": [
+      "Fire",
+      "Rock"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "HISUI",
+    "shiny": "/megaEvolutions/059_hisuians.png",
+    "height": "2.0  m",
+    "weight": "168.0 kg",
+    "category": "Legendary",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mega Alakazam",
+    "id": 65,
+    "number": "065",
+    "image": "/megaEvolutions/065_mega.png",
+    "type": [
+      "Fire",
+      "Rock"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/065_megas.png",
+    "height": "1.2  m",
+    "weight": "48.0 kg",
+    "category": "Psi",
+    "gender": "unknown",
+    "mega": true
+  }
+]

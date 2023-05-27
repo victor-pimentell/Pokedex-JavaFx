@@ -1,0 +1,23 @@
+#myButton{
+    -fx-background-radius: 150;
+    -fx-pref-width: 37;
+    -fx-pref-height: 37;
+    -fx-background-color: #00acfa;
+}
+#myButton:hover {
+    -fx-border-radius: 150;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+}
+#startButton {
+    -fx-background-radius: 150;
+    -fx-pref-width: 37;
+    -fx-pref-height: 37;
+    -fx-background-color: #00acfa;
+}
+#startButton:hover {
+    -fx-border-radius: 150;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+}
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<AnchorPane prefHeight="525.0" prefWidth="696.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.pokedex.pokedexScreenController">
+   <children>
+      <ImageView fx:id="backgroundImageView" fitHeight="525.0" fitWidth="743.0" layoutX="9.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../UIassets/pokedexBackground.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="rightButton" layoutX="281.0" layoutY="408.0" mnemonicParsing="false" onAction="#rightButton" opacity="0.0" prefHeight="25.0" prefWidth="20.0" visible="false" />
+      <Button fx:id="leftButton" layoutX="231.0" layoutY="408.0" mnemonicParsing="false" onAction="#leftButton" opacity="0.0" prefHeight="25.0" prefWidth="20.0" visible="false" />
+      <Button fx:id="startButton" layoutX="62.0" layoutY="371.0" mnemonicParsing="false" onAction="#start" prefHeight="25.0" prefWidth="22.0" stylesheets="@../cssStyle/buttons.css">
+         <graphic>
+            <FontIcon iconLiteral="typ-media-play" />
+         </graphic></Button>
+      <Label fx:id="nameLabel" layoutX="467.0" layoutY="196.0" prefHeight="26.0" prefWidth="150.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="numberLabel" layoutX="617.0" layoutY="196.0" prefHeight="25.0" prefWidth="48.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="typeOneLabel" layoutX="453.0" layoutY="344.0" prefHeight="25.0" prefWidth="77.0" stylesheets="@../cssStyle/labels.css" />
+      <Label fx:id="typeTwoLabel" layoutX="554.0" layoutY="345.0" prefHeight="25.0" prefWidth="77.0" stylesheets="@../cssStyle/labels.css" />
+      <Pane fx:id="paneBackground" layoutX="72.0" layoutY="159.0" prefHeight="162.0" prefWidth="246.0">
+         <children>
+            <ImageView fx:id="photoFrame" fitHeight="150.0" fitWidth="200.0" layoutX="48.0" layoutY="9.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../UIassets/icon.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+      <Button fx:id="myButton" alignment="CENTER" contentDisplay="CENTER" layoutX="62.0" layoutY="371.0" mnemonicParsing="false" onAction="#close" prefHeight="59.0" prefWidth="41.0" stylesheets="@../cssStyle/buttons.css" textAlignment="CENTER" visible="false">
+         <graphic>
+            <FontIcon fx:id="myIcon" iconLiteral="typ-power" iconSize="17" />
+         </graphic></Button>
+      <ImageView fx:id="typeIconOne" fitHeight="20.0" fitWidth="20.0" layoutX="446.0" layoutY="347.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="typeIconTwo" fitHeight="20.0" fitWidth="20.0" layoutX="544.0" layoutY="348.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="waeknessesLabel" layoutX="539.0" layoutY="400.0" stylesheets="@../cssStyle/labels.css" text="Weaknesses" textFill="WHITE" visible="false" />
+      <Label fx:id="weaknessesLabelOne" layoutX="454.0" layoutY="440.0" prefHeight="17.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="weaknessesLabelTwo" layoutX="490.0" layoutY="440.0" prefHeight="17.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="weaknessesLabelThree" layoutX="531.0" layoutY="440.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="weaknessesLabelFour" layoutX="572.0" layoutY="440.0" prefHeight="17.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="weaknessesLabelFive" layoutX="612.0" layoutY="440.0" prefHeight="17.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="weaknessesLabelSix" layoutX="651.0" layoutY="440.0" prefHeight="17.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <ImageView fx:id="weaknessesIconOne" fitHeight="20.0" fitWidth="20.0" layoutX="461.0" layoutY="418.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="weaknessesIconTwo" fitHeight="20.0" fitWidth="20.0" layoutX="488.0" layoutY="418.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="weaknessesIconThree" fitHeight="20.0" fitWidth="20.0" layoutX="529.0" layoutY="418.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="weaknessesIconFour" fitHeight="20.0" fitWidth="20.0" layoutX="565.0" layoutY="418.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="weaknessesIconFive" fitHeight="20.0" fitWidth="20.0" layoutX="621.0" layoutY="418.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="weaknessesIconSix" fitHeight="20.0" fitWidth="20.0" layoutX="658.0" layoutY="418.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="regionImage" fitHeight="55.0" fitWidth="96.0" layoutX="230.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" visible="false">
+         <image>
+            <Image url="@../UIassets/region.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="regionLabel" layoutX="264.0" layoutY="166.0" prefHeight="18.0" prefWidth="51.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="generationLabel" alignment="CENTER" layoutX="61.0" layoutY="425.0" prefHeight="37.0" prefWidth="129.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Button fx:id="shinyButtons" layoutX="253.0" layoutY="409.0" mnemonicParsing="false" onAction="#shinyUpdate" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
+      <Button fx:id="getMegaListButton" layoutX="253.0" layoutY="435.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" />
+      <Button fx:id="getMegaListButton2" layoutX="252.0" layoutY="383.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" />
+      <Button fx:id="downMega" layoutX="253.0" layoutY="435.0" mnemonicParsing="false" onAction="#megadown" opacity="0.0" prefHeight="0.0" prefWidth="27.0" visible="false" />
+      <Button fx:id="upMega" layoutX="253.0" layoutY="383.0" mnemonicParsing="false" onAction="#megaUp" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
+      <Label fx:id="heightText" layoutX="451.0" layoutY="255.0" prefHeight="25.0" prefWidth="41.0" stylesheets="@../cssStyle/labels.css" text="Height" textFill="WHITE" visible="false" />
+      <Label fx:id="weightText" layoutX="578.0" layoutY="257.0" prefHeight="17.0" prefWidth="41.0" stylesheets="@../cssStyle/labels.css" text="Weight" textFill="WHITE" visible="false" />
+      <Label fx:id="categoryText" layoutX="575.0" layoutY="294.0" stylesheets="@../cssStyle/labels.css" text="Category" textFill="WHITE" visible="false" />
+      <Label fx:id="genderText" layoutX="453.0" layoutY="294.0" prefHeight="21.0" prefWidth="38.0" stylesheets="@../cssStyle/labels.css" text="Gender" textFill="WHITE" visible="false" />
+      <Label fx:id="heightLabel" layoutX="493.0" layoutY="257.0" prefHeight="21.0" prefWidth="61.0" stylesheets="@../cssStyle/labels.css" />
+      <Label fx:id="genderLabel" layoutX="493.0" layoutY="294.0" prefHeight="21.0" prefWidth="61.0" stylesheets="@../cssStyle/labels.css" />
+      <Label fx:id="weightLabel" layoutX="623.0" layoutY="257.0" prefHeight="21.0" prefWidth="61.0" stylesheets="@../cssStyle/labels.css" />
+      <Label fx:id="categoryLabel" layoutX="623.0" layoutY="294.0" prefHeight="21.0" prefWidth="61.0" stylesheets="@../cssStyle/labels.css" />
+      <ImageView fx:id="genderIcon" fitHeight="26.0" fitWidth="41.0" layoutX="506.0" layoutY="291.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="megaSymbol" fitHeight="22.0" fitWidth="22.0" layoutX="106.0" layoutY="330.0" pickOnBounds="true" preserveRatio="true" />
+   </children>
+</AnchorPane>

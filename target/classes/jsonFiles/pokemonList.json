@@ -1,0 +1,3583 @@
+[
+  {
+    "name": "Bulbasaur",
+    "id": 1,
+    "number": "001",
+    "image": "/images/001.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (1).png",
+    "height": "0.7 m",
+    "weight": "6.9 kg",
+    "category": "Seed",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Ivysaur",
+    "id": 2,
+    "number": "002",
+    "image": "/images/002.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (2).png",
+    "height": "1.0 m",
+    "weight": "13.0 kg",
+    "category": "Seed",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Venusaur",
+    "id": 3,
+    "number": "003",
+    "image": "/images/003.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (3).png",
+    "height": "2.0 m",
+    "weight": "100.0 kg",
+    "category": "Seed",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Charmander",
+    "id": 4,
+    "number": "004",
+    "image": "/images/004.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (4).png",
+    "height": "0.6 m",
+    "weight": "8.5 kg",
+    "category": "Lizard",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Charmeleon",
+    "id": 5,
+    "number": "005",
+    "image": "/images/005.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (5).png",
+    "height": "1.1 m",
+    "weight": "19.0 kg",
+    "category": "Flame",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Charizard",
+    "id": 6,
+    "number": "006",
+    "image": "/images/006.png",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (6).png",
+    "height": "1.7 m",
+    "weight": "90.5 kg",
+    "category": "Flame",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Squirtle",
+    "id": 7,
+    "number": "007",
+    "image": "/images/007.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Grass",
+      "Electric"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (7).png",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "category": "Tiny Turtle",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Wartortle",
+    "id": 8,
+    "number": "008",
+    "image": "/images/008.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Grass",
+      "Electric"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (8).png",
+    "height": "1.0 m",
+    "weight": "22.5 kg",
+    "category": "Turtle",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Blastoise",
+    "id": 9,
+    "number": "009",
+    "image": "/images/009.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Grass",
+      "Electric"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (9).png",
+    "height": "1.6 m",
+    "weight": "85.5 kg",
+    "category": "Shellfish",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Caterpie",
+    "id": 10,
+    "number": "010",
+    "image": "/images/010.png",
+    "type": [
+      "Bug"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (10).png",
+    "height": "0.3 m",
+    "weight": "2.9 kg",
+    "category": "Worm",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Metapod",
+    "id": 11,
+    "number": "011",
+    "image": "/images/011.png",
+    "type": [
+      "Bug"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (11).png",
+    "height": "0.7 m",
+    "weight": "9.9 kg",
+    "category": "Cocoon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Butterfree",
+    "id": 12,
+    "number": "012",
+    "image": "/images/012.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "backGroundColor": "#8fa8dd",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (12).png",
+    "height": "1.1 m",
+    "weight": "32.0 kg",
+    "category": "Butterfly",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Weedle",
+    "id": 13,
+    "number": "013",
+    "image": "/images/013.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (13).png",
+    "height": "0.3 m",
+    "weight": "3.2 kg",
+    "category": "Hairy Bug",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Kakuna",
+    "id": 14,
+    "number": "014",
+    "image": "/images/014.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (14).png",
+    "height": "0.6 m",
+    "weight": "10.0 kg",
+    "category": "Cocoon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Beedrill",
+    "id": 15,
+    "number": "015",
+    "image": "/images/015.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (15).png",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "category": "Poison Bee",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Pidgey",
+    "id": 16,
+    "number": "016",
+    "image": "/images/016.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (16).png",
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "category": "Tiny Bird",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Pidgeotto",
+    "id": 17,
+    "number": "017",
+    "image": "/images/017.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (17).png",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
+    "category": "Bird",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Pidgeot",
+    "id": 18,
+    "number": "018",
+    "image": "/images/018.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (18).png",
+    "height": "1.5 m",
+    "weight": "39.5 kg",
+    "category": "Bird",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Rattata",
+    "id": 19,
+    "number": "019",
+    "image": "/images/019.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (19).png",
+    "height": "0.3 m",
+    "weight": "3.5 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Raticate",
+    "id": 20,
+    "number": "020",
+    "image": "/images/020.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (20).png",
+    "height": "0.7 m",
+    "weight": "18.5 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Spearow",
+    "id": 21,
+    "number": "021",
+    "image": "/images/021.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (21).png",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "category": "Tiny Bird",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Fearow",
+    "id": 22,
+    "number": "022",
+    "image": "/images/022.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (22).png",
+    "height": "1.2 m",
+    "weight": "38.0 kg",
+    "category": "Beak",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Ekans",
+    "id": 23,
+    "number": "023",
+    "image": "/images/023.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (23).png",
+    "height": "2.0 m",
+    "weight": "6.9 kg",
+    "category": "Snake",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Arbok",
+    "id": 24,
+    "number": "024",
+    "image": "/images/024.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (24).png",
+    "height": "3.5 m",
+    "weight": "65.0 kg",
+    "category": "Cobra",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Pikachu",
+    "id": 25,
+    "number": "025",
+    "image": "/images/025.png",
+    "type": [
+      "Electric"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (25).png",
+    "height": "0.4 m",
+    "weight": "6.0 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Raichu",
+    "id": 26,
+    "number": "026",
+    "image": "/images/026.png",
+    "type": [
+      "Electric"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (26).png",
+    "height": "0.8 m",
+    "weight": "30.0 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Sandshrew",
+    "id": 27,
+    "number": "027",
+    "image": "/images/027.png",
+    "type": [
+      "Ground"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (27).png",
+    "height": "0.6 m",
+    "weight": "12.0 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Sandslash",
+    "id": 28,
+    "number": "028",
+    "image": "/images/028.png",
+    "type": [
+      "Ground"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (28).png",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "category": "Mouse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Nidoran",
+    "id": 29,
+    "number": "029",
+    "image": "/images/029.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (29).png",
+    "height": "0.4 m",
+    "weight": "7.0 kg",
+    "category": "Poison Pin",
+    "gender": "female",
+    "mega": false
+  },
+  {
+    "name": "Nidorina",
+    "id": 30,
+    "number": "030",
+    "image": "/images/030.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (30).png",
+    "height": "0.8 m",
+    "weight": "20.0 kg",
+    "category": "Poison Pin",
+    "gender": "female",
+    "mega": false
+  },
+  {
+    "name": "Nidoqueen",
+    "id": 31,
+    "number": "031",
+    "image": "/images/031.png",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Water",
+      "Psychic",
+      "Ice",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (31).png",
+    "height": "1.3 m",
+    "weight": "60.0 kg",
+    "category": "Drill",
+    "gender": "female",
+    "mega": false
+  },
+  {
+    "name": "Nidoran",
+    "id": 32,
+    "number": "032",
+    "image": "/images/032.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (32).png",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "category": "Poison Pin",
+    "gender": "male",
+    "mega": false
+  },
+  {
+    "name": "Nidorino",
+    "id": 33,
+    "number": "033",
+    "image": "/images/033.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (33).png",
+    "height": "0.9 m",
+    "weight": "19.5 kg",
+    "category": "Poison Pin",
+    "gender": "male",
+    "mega": false
+  },
+  {
+    "name": "Nidoking",
+    "id": 34,
+    "number": "034",
+    "image": "/images/034.png",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Water",
+      "Psychic",
+      "Ice",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (34).png",
+    "height": "1.4 m",
+    "weight": "62.0 kg",
+    "category": "Drill",
+    "gender": "male",
+    "mega": false
+  },
+  {
+    "name": "Clefairy",
+    "id": 35,
+    "number": "035",
+    "image": "/images/035.png",
+    "type": [
+      "Fairy"
+    ],
+    "backGroundColor": "#ec8fe6",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (35).png",
+    "height": "0.6 m",
+    "weight": "7.5 kg",
+    "category": "Fairy",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Clefable",
+    "id": 36,
+    "number": "036",
+    "image": "/images/036.png",
+    "type": [
+      "Fairy"
+    ],
+    "backGroundColor": "#ec8fe6",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (36).png",
+    "height": "1.3 m",
+    "weight": "40.0 kg",
+    "category": "Fairy",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Vulpix",
+    "id": 37,
+    "number": "037",
+    "image": "/images/037.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (37).png",
+    "height": "0.6 m",
+    "weight": "9.9 kg",
+    "category": "Fox",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Ninetales",
+    "id": 38,
+    "number": "038",
+    "image": "/images/038.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (38).png",
+    "height": "1.1 m",
+    "weight": "19.9 kg",
+    "category": "Fox",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Jigglypuff",
+    "id": 39,
+    "number": "039",
+    "image": "/images/039.png",
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (39).png",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "category": "Balloon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Wigglytuff",
+    "id": 40,
+    "number": "040",
+    "image": "/images/040.png",
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (40).png",
+    "height": "1.0 m",
+    "weight": "12.0 kg",
+    "category": "Balloon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Wigglytuff",
+    "id": 40,
+    "number": "040",
+    "image": "/images/040.png",
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (40).png",
+    "height": "1.0 m",
+    "weight": "12.0 kg",
+    "category": "Balloon",
+    "gender": "both",
+    "mega": false
+  },
+
+  {
+    "name": "Zubat",
+    "id": 41,
+    "number": "041",
+    "image": "/images/041.png",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (41).png",
+    "height": "0.8 m",
+    "weight": "7.5 kg",
+    "category": "Bat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Golbat",
+    "id": 42,
+    "number": "042",
+    "image": "/images/042.png",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (42).png",
+    "height": "1.6 m",
+    "weight": "55.0 kg",
+    "category": "Bat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Oddish",
+    "id": 43,
+    "number": "043",
+    "image": "/images/043.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (43).png",
+    "height": "0.5 m",
+    "weight": "5.4 kg",
+    "category": "Weed",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gloom",
+    "id": 44,
+    "number": "044",
+    "image": "/images/044.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (44).png",
+    "height": "0.8 m",
+    "weight": "8.6 kg",
+    "category": "Weed",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Vileplume",
+    "id": 45,
+    "number": "045",
+    "image": "/images/045.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (45).png",
+    "height": "1.2 m",
+    "weight": "18.6 kg",
+    "category": "Flower",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Paras",
+    "id": 46,
+    "number": "046",
+    "image": "/images/046.png",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (46).png",
+    "height": "0.3 m",
+    "weight": "5.4 kg",
+    "category": "Mushroom",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Parasect",
+    "id": 47,
+    "number": "047",
+    "image": "/images/047.png",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (47).png",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "category": "Mushroom",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Venonat",
+    "id": 48,
+    "number": "048",
+    "image": "/images/048.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (48).png",
+    "height": "1.0 m",
+    "weight": "30.0 kg",
+    "category": "Insect",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Venomoth",
+    "id": 49,
+    "number": "049",
+    "image": "/images/049.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (49).png",
+    "height": "1.5 m",
+    "weight": "12.5 kg",
+    "category": "Poison Moth",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Diglett",
+    "id": 50,
+    "number": "050",
+    "image": "/images/050.png",
+    "type": [
+      "Ground"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (50).png",
+    "height": "0.2 m",
+    "weight": "0.8 kg",
+    "category": "Mole",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Dugtrio",
+    "id": 51,
+    "number": "051",
+    "image": "/images/051.png",
+    "type": [
+      "Ground"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (51).png",
+    "height": "0.7 m",
+    "weight": "33.3 kg",
+    "category": "Mole",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Meowth",
+    "id": 52,
+    "number": "052",
+    "image": "/images/052.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (52).png",
+    "height": "0.4 m",
+    "weight": "4.2 kg",
+    "category": "Scratch Cat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Persian",
+    "id": 53,
+    "number": "053",
+    "image": "/images/053.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (53).png",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "category": "Classy Cat",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Psyduck",
+    "id": 54,
+    "number": "054",
+    "image": "/images/054.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (54).png",
+    "height": "0.8 m",
+    "weight": "19.6 kg",
+    "category": "Duck",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Golduck",
+    "id": 55,
+    "number": "055",
+    "image": "/images/055.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (55).png",
+    "height": "1.7 m",
+    "weight": "76.6 kg",
+    "category": "Duck",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mankey",
+    "id": 56,
+    "number": "056",
+    "image": "/images/056.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (56).png",
+    "height": "0.5 m",
+    "weight": "28.0 kg",
+    "category": "Pig Monkey",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Primeape",
+    "id": 57,
+    "number": "057",
+    "image": "/images/057.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (57).png",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "category": "Pig Monkey",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Growlithe",
+    "id": 58,
+    "number": "058",
+    "image": "/images/058.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (58).png",
+    "height": "0.7 m",
+    "weight": "19.0 kg",
+    "category": "Puppy",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Arcanine",
+    "id": 59,
+    "number": "059",
+    "image": "/images/059.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (59).png",
+    "height": "1.9 m",
+    "weight": "155.0 kg",
+    "category": "Legendary",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Poliwag",
+    "id": 60,
+    "number": "060",
+    "image": "/images/060.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (60).png",
+    "height": "0.6 m",
+    "weight": "12.4 kg",
+    "category": "Tadpole",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Poliwhirl",
+    "id": 61,
+    "number": "061",
+    "image": "/images/061.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (61).png",
+    "height": "1.0 m",
+    "weight": "20.0 kg",
+    "category": "Tadpole",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Poliwrath",
+    "id": 62,
+    "number": "062",
+    "image": "/images/062.png",
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (62).png",
+    "height": "1.3 m",
+    "weight": "54.0 kg",
+    "category": "Tadpole",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Abra",
+    "id": 63,
+    "number": "063",
+    "image": "/images/063.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (63).png",
+    "height": "0.9 m",
+    "weight": "19.5 kg",
+    "category": "Psi",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Kadabra",
+    "id": 64,
+    "number": "064",
+    "image": "/images/064.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (64).png",
+    "height": "1.3 m",
+    "weight": "56.5 kg",
+    "category": "Psi",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alakazam",
+    "id": 65,
+    "number": "065",
+    "image": "/images/065.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (65).png",
+    "height": "1.5 m",
+    "weight": "48.0 kg",
+    "category": "Psi",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Machop",
+    "id": 66,
+    "number": "066",
+    "image": "/images/066.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (66).png",
+    "height": "0.8 m",
+    "weight": "19.5 kg",
+    "category": "Superpower",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Machoke",
+    "id": 67,
+    "number": "067",
+    "image": "/images/067.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (67).png",
+    "height": "1.5 m",
+    "weight": "70.5 kg",
+    "category": "Superpower",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Machamp",
+    "id": 68,
+    "number": "068",
+    "image": "/images/068.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (68).png",
+    "height": "1.6 m",
+    "weight": "130.0 kg",
+    "category": "Superpower",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Bellsprout",
+    "id": 69,
+    "number": "069",
+    "image": "/images/069.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (69).png",
+    "height": "0.7 m",
+    "weight": "4.0 kg",
+    "category": "Flower",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Weepinbell",
+    "id": 70,
+    "number": "070",
+    "image": "/images/070.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (70).png",
+    "height": "1.0 m",
+    "weight": "6.4 kg",
+    "category": "Flycatcher",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Victreebel",
+    "id": 71,
+    "number": "071",
+    "image": "/images/071.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (71).png",
+    "height": "1.7 m",
+    "weight": "15.5 kg",
+    "category": "Flycatcher",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Tentacool",
+    "id": 72,
+    "number": "072",
+    "image": "/images/072.png",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (72).png",
+    "height": "0.9 m",
+    "weight": "45.5 kg",
+    "category": "Jellyfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Tentacruel",
+    "id": 73,
+    "number": "073",
+    "image": "/images/073.png",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (73).png",
+    "height": "1.6 m",
+    "weight": "55.0 kg",
+    "category": "Jellyfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Geodude",
+    "id": 74,
+    "number": "074",
+    "image": "/images/074.png",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (74).png",
+    "height": "0.4 m",
+    "weight": "20.0 kg",
+    "category": "Rock",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Graveler",
+    "id": 75,
+    "number": "075",
+    "image": "/images/075.png",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (75).png",
+    "height": "1.0 m",
+    "weight": "105.0 kg",
+    "category": "Rock",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Golem",
+    "id": 76,
+    "number": "076",
+    "image": "/images/076.png",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (76).png",
+    "height": "1.4 m",
+    "weight": "300.0 kg",
+    "category": "Megaton",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Ponyta",
+    "id": 77,
+    "number": "077",
+    "image": "/images/077.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (77).png",
+    "height": "1.0 m",
+    "weight": "30.0 kg",
+    "category": "Fire Horse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Rapidash",
+    "id": 78,
+    "number": "078",
+    "image": "/images/078.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (78).png",
+    "height": "1.7 m",
+    "weight": "95.0 kg",
+    "category": "Fire Horse",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Slowpoke",
+    "id": 79,
+    "number": "079",
+    "image": "/images/079.png",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (79).png",
+    "height": "1.2 m",
+    "weight": "36.0 kg",
+    "category": "Dopey",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Slowbro",
+    "id": 80,
+    "number": "080",
+    "image": "/images/080.png",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (80).png",
+    "height": "1.6 m",
+    "weight": "78.5 kg",
+    "category": "Hermit Crab",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Magnemite",
+    "id": 81,
+    "number": "081",
+    "image": "/images/081.png",
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "backGroundColor": "#5a8ea1",
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (81).png",
+    "height": "0.3 m",
+    "weight": "6.0 kg",
+    "category": "Magnet",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Magneton",
+    "id": 82,
+    "number": "082",
+    "image": "/images/082.png",
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "backGroundColor": "#5a8ea1",
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (82).png",
+    "height": "1.0 m",
+    "weight": "60.0 kg",
+    "category": "Magnet",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Farfetch'd",
+    "id": 83,
+    "number": "083",
+    "image": "/images/083.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Rock",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (83).png",
+    "height": "0.8 m",
+    "weight": "15.0 kg",
+    "category": "Wild Duck",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Doduo",
+    "id": 84,
+    "number": "084",
+    "image": "/images/084.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (84).png",
+    "height": "1.4 m",
+    "weight": "39.2 kg",
+    "category": "Twin Bird",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Dodrio",
+    "id": 85,
+    "number": "085",
+    "image": "/images/085.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Electric",
+      "Rock",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (85).png",
+    "height": "1.8 m",
+    "weight": "85.2 kg",
+    "category": "Triple Bird",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Seel",
+    "id": 86,
+    "number": "086",
+    "image": "/images/086.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (86).png",
+    "height": "1.1 m",
+    "weight": "90.0 kg",
+    "category": "Sea Lion",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Dewgong",
+    "id": 87,
+    "number": "087",
+    "image": "/images/087.png",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (87).png",
+    "height": "1.7 m",
+    "weight": "120.0 kg",
+    "category": "Sea Lion",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Grimer",
+    "id": 88,
+    "number": "088",
+    "image": "/images/088.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (88).png",
+    "height": "0.9 m",
+    "weight": "30.0 kg",
+    "category": "Sludge",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Muk",
+    "id": 89,
+    "number": "089",
+    "image": "/images/089.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (89).png",
+    "height": "1.2 m",
+    "weight": "30.0 kg",
+    "category": "Sludge",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Shellder",
+    "id": 90,
+    "number": "090",
+    "image": "/images/090.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (90).png",
+    "height": "0.3 m",
+    "weight": "4.0 kg",
+    "category": "Bivalve",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Cloyster",
+    "id": 91,
+    "number": "091",
+    "image": "/images/091.png",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (91).png",
+    "height": "1.5 m",
+    "weight": "132.5 kg",
+    "category": "Bivalve",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gastly",
+    "id": 92,
+    "number": "092",
+    "image": "/images/092.png",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (92).png",
+    "height": "1.3 m",
+    "weight": "0.1 kg",
+    "category": "Gas",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Haunter",
+    "id": 93,
+    "number": "093",
+    "image": "/images/093.png",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (93).png",
+    "height": "1.6 m",
+    "weight": "0.1 kg",
+    "category": "Gas",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gengar",
+    "id": 94,
+    "number": "094",
+    "image": "/images/094.png",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (94).png",
+    "height": "1.5 m",
+    "weight": "40.5 kg",
+    "category": "Shadow",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Onix",
+    "id": 95,
+    "number": "095",
+    "image": "/images/095.png",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (95).png",
+    "height": "8.8 m",
+    "weight": "210.0 kg",
+    "category": "Rock Snake",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Drowzee",
+    "id": 96,
+    "number": "096",
+    "image": "/images/096.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (96).png",
+    "height": "1.0 m",
+    "weight": "32.4 kg",
+    "category": "Hypnosis",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Hypno",
+    "id": 97,
+    "number": "097",
+    "image": "/images/097.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (97).png",
+    "height": "1.6 m",
+    "weight": "75.6 kg",
+    "category": "Hypnosis",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Krabby",
+    "id": 98,
+    "number": "098",
+    "image": "/images/098.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (98).png",
+    "height": "0.4 m",
+    "weight": "6.5 kg",
+    "category": "River Crab",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Kingler",
+    "id": 99,
+    "number": "099",
+    "image": "/images/099.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (99).png",
+    "height": "1.3 m",
+    "weight": "60.0 kg",
+    "category": "Pincer",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Voltorb",
+    "id": 100,
+    "number": "100",
+    "image": "/images/100.png",
+    "type": [
+      "Electric"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (100).png",
+    "height": "0.5 m",
+    "weight": "10.4 kg",
+    "category": "Ball",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Electrode",
+    "id": 101,
+    "number": "101",
+    "image": "/images/101.png",
+    "type": [
+      "Electric"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (101).png",
+    "height": "1.2 m",
+    "weight": "66.6 kg",
+    "category": "Ball",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Exeggcute",
+    "id": 102,
+    "number": "102",
+    "image": "/images/102.png",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (102).png",
+    "height": "0.4 m",
+    "weight": "2.5 kg",
+    "category": "Egg",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Exeggutor",
+    "id": 103,
+    "number": "103",
+    "image": "/images/103.png",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (103).png",
+    "height": "2.0 m",
+    "weight": "120.0 kg",
+    "category": "Coconut",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Cubone",
+    "id": 104,
+    "number": "104",
+    "image": "/images/104.png",
+    "type": [
+      "Ground"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (104).png",
+    "height": "0.4 m",
+    "weight": "6.5 kg",
+    "category": "Lonely",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Marowak",
+    "id": 105,
+    "number": "105",
+    "image": "/images/105.png",
+    "type": [
+      "Ground"
+    ],
+    "backGroundColor": "#d97746",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (105).png",
+    "height": "1.0 m",
+    "weight": "45.0 kg",
+    "category": "Bone Keeper",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Hitmonlee",
+    "id": 106,
+    "number": "106",
+    "image": "/images/106.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (106).png",
+    "height": "1.5 m",
+    "weight": "49.8 kg",
+    "category": "Kicking",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Hitmonchan",
+    "id": 107,
+    "number": "107",
+    "image": "/images/107.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Flying",
+      "Psychic",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (107).png",
+    "height": "1.4 m",
+    "weight": "50.2 kg",
+    "category": "Punching",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Lickitung",
+    "id": 108,
+    "number": "108",
+    "image": "/images/108.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (108).png",
+    "height": "1.2 m",
+    "weight": "65.5 kg",
+    "category": "Licking",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Koffing",
+    "id": 109,
+    "number": "109",
+    "image": "/images/109.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (109).png",
+    "height": "0.6 m",
+    "weight": "1.0 kg",
+    "category": "Poison Gas",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Weezing",
+    "id": 110,
+    "number": "110",
+    "image": "/images/110.png",
+    "type": [
+      "Poison"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (110).png",
+    "height": "1.2 m",
+    "weight": "9.5 kg",
+    "category": "Poison Gas",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Rhyhorn",
+    "id": 111,
+    "number": "111",
+    "image": "/images/111.png",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (111).png",
+    "height": "1.0 m",
+    "weight": "115.0 kg",
+    "category": "Spikes",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Rhydon",
+    "id": 112,
+    "number": "112",
+    "image": "/images/112.png",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Ice",
+      "Fighting",
+      "Ground",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (112).png",
+    "height": "1.9 m",
+    "weight": "120.0 kg",
+    "category": "Drill",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Chansey",
+    "id": 113,
+    "number": "113",
+    "image": "/images/113.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (113).png",
+    "height": "1.1 m",
+    "weight": "34.6 kg",
+    "category": "Egg",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Tangela",
+    "id": 114,
+    "number": "114",
+    "image": "/images/114.png",
+    "type": [
+      "Grass"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (114).png",
+    "height": "1.0 m",
+    "weight": "35.0 kg",
+    "category": "Vine",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Kangaskhan",
+    "id": 115,
+    "number": "115",
+    "image": "/images/115.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (115).png",
+    "height": "2.2 m",
+    "weight": "80.0 kg",
+    "category": "Parent",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Horsea",
+    "id": 116,
+    "number": "116",
+    "image": "/images/116.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (116).png",
+    "height": "0.4 m",
+    "weight": "8.0 kg",
+    "category": "Dragon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Seadra",
+    "id": 117,
+    "number": "117",
+    "image": "/images/117.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (117).png",
+    "height": "1.2 m",
+    "weight": "25.0 kg",
+    "category": "Dragon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Goldeen",
+    "id": 118,
+    "number": "118",
+    "image": "/images/118.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (118).png",
+    "height": "0.6 m",
+    "weight": "15.0 kg",
+    "category": "Goldfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Seaking",
+    "id": 119,
+    "number": "119",
+    "image": "/images/119.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (119).png",
+    "height": "1.3 m",
+    "weight": "39.0 kg",
+    "category": "Goldfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Staryu",
+    "id": 120,
+    "number": "120",
+    "image": "/images/120.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (120).png",
+    "height": "0.8 m",
+    "weight": "34.5 kg",
+    "category": "Star Shape",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Starmie",
+    "id": 121,
+    "number": "121",
+    "image": "/images/121.png",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (121).png",
+    "height": "1.1 m",
+    "weight": "80.0 kg",
+    "category": "Mysterious",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mr. Mime",
+    "id": 122,
+    "number": "122",
+    "image": "/images/122.png",
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "backGroundColor": "#ec8fe6",
+    "weaknesses": [
+      "Ghost",
+      "Steel",
+      "Poison"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (122).png",
+    "height": "1.3 m",
+    "weight": "54.5 kg",
+    "category": "Barrier",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Scyther",
+    "id": 123,
+    "number": "123",
+    "image": "/images/123.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (123).png",
+    "height": "1.5 m",
+    "weight": "56.0 kg",
+    "category": "Mantis",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Jynx",
+    "id": 124,
+    "number": "124",
+    "image": "/images/124.png",
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Fire",
+      "Bug",
+      "Rock",
+      "Ghost",
+      "Dark",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (124).png",
+    "height": "1.4 m",
+    "weight": "40.6 kg",
+    "category": "Human Shape",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Electabuzz",
+    "id": 125,
+    "number": "125",
+    "image": "/images/125.png",
+    "type": [
+      "Electric"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (125).png",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
+    "category": "Electric",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Magmar",
+    "id": 126,
+    "number": "126",
+    "image": "/images/126.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Rock",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (126).png",
+    "height": "1.3 m",
+    "weight": "44.5 kg",
+    "category": "Spitfire",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Pinsir",
+    "id": 127,
+    "number": "127",
+    "image": "/images/127.png",
+    "type": [
+      "Bug"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (127).png",
+    "height": "1.5 m",
+    "weight": "55.0 kg",
+    "category": "Stag Beetle",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Tauros",
+    "id": 128,
+    "number": "128",
+    "image": "/images/128.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (128).png",
+    "height": "1.4 m",
+    "weight": "88.4 kg",
+    "category": "Wild Bull",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Magikarp",
+    "id": 129,
+    "number": "129",
+    "image": "/images/129.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (129).png",
+    "height": "0.9 m",
+    "weight": "10.0 kg",
+    "category": "Fish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gyarados",
+    "id": 130,
+    "number": "130",
+    "image": "/images/130.png",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (130).png",
+    "height": "6.5 m",
+    "weight": "235.0 kg",
+    "category": "Atrocious",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Lapras",
+    "id": 131,
+    "number": "131",
+    "image": "/images/131.png",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (131.png",
+    "height": "2.5 m",
+    "weight": "220.0 kg",
+    "category": "Transport",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Ditto",
+    "id": 132,
+    "number": "132",
+    "image": "/images/132.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (132).png",
+    "height": "0.3 m",
+    "weight": "4.0 kg",
+    "category": "Transform",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Eevee",
+    "id": 133,
+    "number": "133",
+    "image": "/images/133.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (133).png",
+    "height": "0.3 m",
+    "weight": "6.5 kg",
+    "category": "Evolution",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Vaporeon",
+    "id": 134,
+    "number": "134",
+    "image": "/images/134.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (134).png",
+    "height": "1.0 m",
+    "weight": "29.0 kg",
+    "category": "Bubble Jet",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Jolteon",
+    "id": 135,
+    "number": "135",
+    "image": "/images/135.png",
+    "type": [
+      "Electric"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (135).png",
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "category": "Lightning",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Flareon",
+    "id": 136,
+    "number": "136",
+    "image": "/images/136.png",
+    "type": [
+      "Fire"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Rock",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (136).png",
+    "height": "0.9 m",
+    "weight": "25.0 kg",
+    "category": "Flame",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Porygon",
+    "id": 137,
+    "number": "137",
+    "image": "/images/137.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (137).png",
+    "height": "0.8 m",
+    "weight": "36.5 kg",
+    "category": "Virtual",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Omanyte",
+    "id": 138,
+    "number": "138",
+    "image": "/images/138.png",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Grass",
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (138).png",
+    "height": "0.4 m",
+    "weight": "7.5 kg",
+    "category": "Spiral",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Omastar",
+    "id": 139,
+    "number": "139",
+    "image": "/images/139.png",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Grass",
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (139).png",
+    "height": "1.0 m",
+    "weight": "35.0 kg",
+    "category": "Spiral",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Kabuto",
+    "id": 140,
+    "number": "140",
+    "image": "/images/140.png",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Grass",
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (140).png",
+    "height": "0.5 m",
+    "weight": "11.5 kg",
+    "category": "Shellfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Kabutops",
+    "id": 141,
+    "number": "141",
+    "image": "/images/141.png",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Grass",
+      "Electric",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (141).png",
+    "height": "1.3 m",
+    "weight": "40.5 kg",
+    "category": "Shellfish",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Aerodactyl",
+    "id": 142,
+    "number": "142",
+    "image": "/images/142.png",
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Ice",
+      "Rock",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (142).png",
+    "height": "1.8 m",
+    "weight": "59.0 kg",
+    "category": "Fossil",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Snorlax",
+    "id": 143,
+    "number": "143",
+    "image": "/images/143.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (143).png",
+    "height": "2.1 m",
+    "weight": "460.0 kg",
+    "category": "Sleeping",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Articuno",
+    "id": 144,
+    "number": "144",
+    "image": "/images/144.png",
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Fire",
+      "Electric",
+      "Rock",
+      "Steel"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (144).png",
+    "height": "1.7 m",
+    "weight": "55.4 kg",
+    "category": "Freeze",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Zapdos",
+    "id": 145,
+    "number": "145",
+    "image": "/images/145.png",
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Ice",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (145).png",
+    "height": "1.6 m",
+    "weight": "52.6 kg",
+    "category": "Electric",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Moltres",
+    "id": 146,
+    "number": "146",
+    "image": "/images/146.png",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Electric",
+      "Rock"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (146).png",
+    "height": "2.0 m",
+    "weight": "60.0 kg",
+    "category": "Flame",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Dratini",
+    "id": 147,
+    "number": "147",
+    "image": "/images/147.png",
+    "type": [
+      "Dragon"
+    ],
+    "backGroundColor": "#0a6dc4",
+    "weaknesses": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (147).png",
+    "height": "1.8 m",
+    "weight": "3.3 kg",
+    "category": "Dragon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Dragonair",
+    "id": 148,
+    "number": "148",
+    "image": "/images/148.png",
+    "type": [
+      "Dragon"
+    ],
+    "backGroundColor": "#0a6dc4",
+    "weaknesses": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (148).png",
+    "height": "4.0 m",
+    "weight": "16.5 kg",
+    "category": "Dragon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Dragonite",
+    "id": 149,
+    "number": "149",
+    "image": "/images/149.png",
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "backGroundColor": "#0a6dc4",
+    "weaknesses": [
+      "Ice",
+      "Rock",
+      "Dragon",
+      "Fairy"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (149).png",
+    "height": "2.2 m",
+    "weight": "210.0 kg",
+    "category": "Dragon",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mewtwo",
+    "id": 150,
+    "number": "150",
+    "image": "/images/150.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (150).png",
+    "height": "2.0 m",
+    "weight": "122.0 kg",
+    "category": "Genetic",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mew",
+    "id": 151,
+    "number": "151",
+    "image": "/images/151.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/shiny/s (151).png",
+    "height": "0.4 m",
+    "weight": "4.0 kg",
+    "category": "New Species",
+    "gender": "both",
+    "mega": false
+  }
+]

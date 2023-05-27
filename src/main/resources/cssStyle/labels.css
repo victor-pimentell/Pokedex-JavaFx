@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.label {
+    -fx-font-family: 'Bebas Neue', cursive;
+}
+
+#nameLabel {
+    -fx-font-size: 20;
+}
+
+#numberLabel {
+    -fx-font-size: 20;
+}
+
+#typeOneLabel {
+    -fx-font-size: 16;
+    -fx-alignment: center;
+}
+#typeTwoLabel {
+    -fx-font-size: 16;
+    -fx-alignment: center;
+}
+#weaknessesLabelOne {
+    -fx-alignment: center;
+}
+#weaknessesLabelTwo {
+    -fx-alignment: center;
+}
+#weaknessesLabelThree {
+    -fx-alignment: center;
+}
+#weaknessesLabelFour {
+    -fx-alignment: center;
+}
+#weaknessesLabelFive {
+    -fx-alignment: center;
+}
+#weaknessesLabelSix {
+    -fx-alignment: center;
+}
+#regionLabel {
+    -fx-alignment: center;
+    -fx-font-size: 14;
+}
+#generationLabel {
+    -fx-alignment: center;
+    -fx-font-size: 18;
+}
+#heightText {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+#genderText {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+#weightText {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+#categoryText {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+#heightLabel {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+#genderLabel {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+#weightLabel {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+#categoryLabel {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}

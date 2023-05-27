@@ -602,15 +602,13 @@
     "number": "065",
     "image": "/megaEvolutions/065_mega.png",
     "type": [
-      "Fire",
-      "Rock"
+      "Psychic"
     ],
     "backGroundColor": "#f97176",
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Fighting",
-      "Rock"
+      "Ghost",
+      "Dark",
+      "Bug"
     ],
     "generation": 6,
     "region": "KANTO",
@@ -620,5 +618,316 @@
     "category": "Psi",
     "gender": "unknown",
     "mega": true
+  },
+  {
+    "name": "Gigantamax Machamp",
+    "id": 68,
+    "number": "068",
+    "image": "/megaEvolutions/068_max.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Psychic",
+      "Flying",
+      "Fairy"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/068_maxs.png",
+    "height": ">25.0  m",
+    "weight": "???.? kg",
+    "category": "Superpower",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Geodude",
+    "id": 74,
+    "number": "074",
+    "image": "/megaEvolutions/074_alola.png",
+    "type": [
+      "Rock",
+      "Electric"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/074_alolas.png",
+    "height": "0.4  m",
+    "weight": "20.3 kg",
+    "category": "Rock",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Graveler",
+    "id": 75,
+    "number": "075",
+    "image": "/megaEvolutions/075_alola.png",
+    "type": [
+      "Rock",
+      "Electric"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/075_alolas.png",
+    "height": "1.0  m",
+    "weight": "110.0 kg",
+    "category": "Rock",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Golem",
+    "id": 76,
+    "number": "076",
+    "image": "/megaEvolutions/076_alola.png",
+    "type": [
+      "Rock",
+      "Electric"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/076_alolas.png",
+    "height": "1.7  m",
+    "weight": "316.0 kg",
+    "category": "Megaton",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Ponyta",
+    "id": 77,
+    "number": "077",
+    "image": "/megaEvolutions/077_galarian.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/077_galarians.png",
+    "height": "0.8  m",
+    "weight": "24.0 kg",
+    "category": "Unique Horn",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Ponyta",
+    "id": 78,
+    "number": "078",
+    "image": "/megaEvolutions/078_galarian.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/078_galarians.png",
+    "height": "1.7  m",
+    "weight": "80.0 kg",
+    "category": "Unique Horn",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "id": 79,
+    "number": "079",
+    "image": "/megaEvolutions/079_galarian.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/079_galarians.png",
+    "height": "1.2  m",
+    "weight": "36.0 kg",
+    "category": "Dopey",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Slowbro",
+    "id": 80,
+    "number": "080",
+    "image": "/megaEvolutions/080_galarian.png",
+    "type": [
+      "Poison",
+      "Psychic"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Ground"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/080_galarians.png",
+    "height": "1.6  m",
+    "weight": "70.5 kg",
+    "category": "Hermit Crab",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Slowbro",
+    "id": 80,
+    "number": "080",
+    "image": "/megaEvolutions/080_mega.png",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Grass",
+      "Electric",
+      "Bug"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/080_megas.png",
+    "height": "2.0  m",
+    "weight": "120.0 kg",
+    "category": "Hermit Crab",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Alolan Grimer",
+    "id": 88,
+    "number": "088",
+    "image": "/megaEvolutions/088_alola.png",
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/088_alolas.png",
+    "height": "0.7  m",
+    "weight": "42.0 kg",
+    "category": "Sludge",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Grimer",
+    "id": 89,
+    "number": "089",
+    "image": "/megaEvolutions/088_alola.png",
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/089_alolas.png",
+    "height": "1.0  m",
+    "weight": "52.0 kg",
+    "category": "Sludge",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mega Gengar",
+    "id": 94,
+    "number": "094",
+    "image": "/megaEvolutions/094_mega.png",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/094_megas.png",
+    "height": "1.4  m",
+    "weight": "40.5 kg",
+    "category": "Shadow",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Gigantamax Gengar",
+    "id": 94,
+    "number": "094",
+    "image": "/megaEvolutions/094_max.png",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/094_maxs.png",
+    "height": ">20.0  m",
+    "weight": "???.? kg",
+    "category": "Shadow",
+    "gender": "both",
+    "mega": false
   }
 ]

@@ -1539,7 +1539,7 @@
     "weight": "48.0 kg",
     "category": "Psi",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Machop",

@@ -1539,7 +1539,7 @@
     "weight": "48.0 kg",
     "category": "Psi",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Machop",
@@ -1910,7 +1910,7 @@
     "weight": "78.5 kg",
     "category": "Hermit Crab",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Magnemite",
@@ -2247,7 +2247,7 @@
     "weight": "40.5 kg",
     "category": "Shadow",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Onix",

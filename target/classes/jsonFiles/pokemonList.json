@@ -1910,7 +1910,7 @@
     "weight": "78.5 kg",
     "category": "Hermit Crab",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Magnemite",
@@ -2247,7 +2247,7 @@
     "weight": "40.5 kg",
     "category": "Shadow",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Onix",
@@ -2744,7 +2744,7 @@
     "weight": "80.0 kg",
     "category": "Parent",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Horsea",
@@ -3088,7 +3088,7 @@
     "weight": "235.0 kg",
     "category": "Atrocious",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Lapras",
@@ -3368,7 +3368,7 @@
     "weight": "59.0 kg",
     "category": "Fossil",
     "gender": "both",
-    "mega": false
+    "mega": true
   },
   {
     "name": "Snorlax",

@@ -25,6 +25,31 @@
     "mega": true
   },
   {
+    "name": "Gigantamax Venusaur",
+    "id": 3,
+    "number": "003",
+    "image": "/megaEvolutions/003_max.png",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Ice"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/003_maxs.png",
+    "height": ">24.0 m",
+    "weight": "???.? kg",
+    "category": "Seed",
+    "gender": "both",
+    "mega": false
+  },
+  {
     "name": "Mega Charizard X",
     "id": 6,
     "number": "006",
@@ -739,5 +764,735 @@
     "category": "Unique Horn",
     "gender": "both",
     "mega": false
+  },
+  {
+    "name": "Galarian Ponyta",
+    "id": 78,
+    "number": "078",
+    "image": "/megaEvolutions/078_galarian.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/078_galarians.png",
+    "height": "1.7  m",
+    "weight": "80.0 kg",
+    "category": "Unique Horn",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "id": 79,
+    "number": "079",
+    "image": "/megaEvolutions/079_galarian.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/079_galarians.png",
+    "height": "1.2  m",
+    "weight": "36.0 kg",
+    "category": "Dopey",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Slowbro",
+    "id": 80,
+    "number": "080",
+    "image": "/megaEvolutions/080_galarian.png",
+    "type": [
+      "Poison",
+      "Psychic"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Ground"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/080_galarians.png",
+    "height": "1.6  m",
+    "weight": "70.5 kg",
+    "category": "Hermit Crab",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Slowbro",
+    "id": 80,
+    "number": "080",
+    "image": "/megaEvolutions/080_mega.png",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Grass",
+      "Electric",
+      "Bug"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/080_megas.png",
+    "height": "2.0  m",
+    "weight": "120.0 kg",
+    "category": "Hermit Crab",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Alolan Grimer",
+    "id": 88,
+    "number": "088",
+    "image": "/megaEvolutions/088_alola.png",
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/088_alolas.png",
+    "height": "0.7  m",
+    "weight": "42.0 kg",
+    "category": "Sludge",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Grimer",
+    "id": 89,
+    "number": "089",
+    "image": "/megaEvolutions/088_alola.png",
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Ground"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/089_alolas.png",
+    "height": "1.0  m",
+    "weight": "52.0 kg",
+    "category": "Sludge",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mega Gengar",
+    "id": 94,
+    "number": "094",
+    "image": "/megaEvolutions/094_mega.png",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/094_megas.png",
+    "height": "1.4  m",
+    "weight": "40.5 kg",
+    "category": "Shadow",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Gigantamax Gengar",
+    "id": 94,
+    "number": "094",
+    "image": "/megaEvolutions/094_max.png",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/094_maxs.png",
+    "height": ">20.0  m",
+    "weight": "???.? kg",
+    "category": "Shadow",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gigantamax Kingler",
+    "id": 99,
+    "number": "099",
+    "image": "/megaEvolutions/099_max.png",
+    "type": [
+      "Water"
+    ],
+    "backGroundColor": "#5269ac",
+    "weaknesses": [
+      "Grass",
+      "Electric"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/099_maxs.png",
+    "height": ">19.0  m",
+    "weight": "???.? kg",
+    "category": "Pincer",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Hisuian Voltorb",
+    "id": 100,
+    "number": "100",
+    "image": "/megaEvolutions/100_hisuian.png",
+    "type": [
+      "Electric",
+      "Grass"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Bug"
+    ],
+    "generation": 1,
+    "region": "HISUI",
+    "shiny": "/megaEvolutions/100_hisuians.png",
+    "height": "0.5  m",
+    "weight": "13.0 kg",
+    "category": "Sphere",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Hisuian Electrode",
+    "id": 101,
+    "number": "101",
+    "image": "/megaEvolutions/101_hisuian.png",
+    "type": [
+      "Electric",
+      "Grass"
+    ],
+    "backGroundColor": "#f3d23b",
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Bug"
+    ],
+    "generation": 1,
+    "region": "HISUI",
+    "shiny": "/megaEvolutions/101_hisuians.png",
+    "height": "1.2  m",
+    "weight": "71.0 kg",
+    "category": "Sphere",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "id": 103,
+    "number": "103",
+    "image": "/megaEvolutions/103_alola.png",
+    "type": [
+      "Grass",
+      "Dragon"
+    ],
+    "backGroundColor": "#63bb5b",
+    "weaknesses": [
+      "Flying",
+      "Ice",
+      "Dragon",
+      "Poison",
+      "Fairy",
+      "Bug"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/103_alolas.png",
+    "height": "10.9  m",
+    "weight": "415.6 kg",
+    "category": "Coconut",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Alolan Marowak",
+    "id": 105,
+    "number": "105",
+    "image": "/megaEvolutions/105_alola.png",
+    "type": [
+      "Fire",
+      "Ghost"
+    ],
+    "backGroundColor": "#ff9c54",
+    "weaknesses": [
+      "Water",
+      "Ghost",
+      "Ground",
+      "Dark",
+      "Rock"
+    ],
+    "generation": 7,
+    "region": "ALOLA",
+    "shiny": "/megaEvolutions/105_alolas.png",
+    "height": "1.0  m",
+    "weight": "34.0 kg",
+    "category": "Bone Keeper",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Weezing",
+    "id": 110,
+    "number": "110",
+    "image": "/megaEvolutions/110_galarian.png",
+    "type": [
+      "Posion",
+      "Fairy"
+    ],
+    "backGroundColor": "#ab6ac8",
+    "weaknesses": [
+      "Steel",
+      "Psychic",
+      "Ground"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/110_galarians.png",
+    "height": "3.0  m",
+    "weight": "16.0 kg",
+    "category": "Poison Gas",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mega Kangaskhan",
+    "id": 115,
+    "number": "115",
+    "image": "/megaEvolutions/115_mega.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/115_megas.png",
+    "height": "2.2  m",
+    "weight": "100.0 kg",
+    "category": "Parent",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "id": 122,
+    "number": "122",
+    "image": "/megaEvolutions/122_galarian.png",
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "backGroundColor": "#74cec0",
+    "weaknesses": [
+      "Steel",
+      "Ghost",
+      "Fire",
+      "Dark",
+      "Rock",
+      "Bug"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/122_galarians.png",
+    "height": "1.4  m",
+    "weight": "56.8 kg",
+    "category": "Dancing",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mega Pinsir",
+    "id": 127,
+    "number": "127",
+    "image": "/megaEvolutions/127_mega.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "backGroundColor": "#90c12c",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/127_megas.png",
+    "height": "1.7  m",
+    "weight": "59.0 kg",
+    "category": "Stag Beetle",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Paldean Tauros (Combat Breed)",
+    "id": 128,
+    "number": "128",
+    "image": "/megaEvolutions/128_paldean_combat.png",
+    "type": [
+      "Fighting"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Psychic",
+      "Flying",
+      "Fairy"
+    ],
+    "generation": 9,
+    "region": "PALDEA",
+    "shiny": "/megaEvolutions/128_paldean_combat.png",
+    "height": "1.4  m",
+    "weight": "115.0 kg",
+    "category": "Wild Bull",
+    "gender": "male",
+    "mega": false
+  },
+  {
+    "name": "Paldean Tauros (Blaze Breed)",
+    "id": 128,
+    "number": "128",
+    "image": "/megaEvolutions/128_paldean_blaze.png",
+    "type": [
+      "Fighting",
+      "Fire"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Water",
+      "Psychic",
+      "Flying",
+      "Ground"
+    ],
+    "generation": 9,
+    "region": "PALDEA",
+    "shiny": "/megaEvolutions/128_paldean_blaze.png",
+    "height": "1.4  m",
+    "weight": "85.0 kg",
+    "category": "Wild Bull",
+    "gender": "male",
+    "mega": false
+  },
+  {
+    "name": "Paldean Tauros (Blaze Aqua)",
+    "id": 128,
+    "number": "128",
+    "image": "/megaEvolutions/128_paldean_aqua.png",
+    "type": [
+      "Fighting",
+      "Water"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Psychic",
+      "Flying",
+      "Grass",
+      "Fairy",
+      "Electric"
+    ],
+    "generation": 9,
+    "region": "PALDEA",
+    "shiny": "/megaEvolutions/128_paldean_aqua.png",
+    "height": "1.4  m",
+    "weight": "110.0 kg",
+    "category": "Wild Bull",
+    "gender": "male",
+    "mega": false
+  },
+  {
+    "name": "Mega Gyarados",
+    "id": 130,
+    "number": "130",
+    "image": "/megaEvolutions/130_mega.png",
+    "type": [
+      "Water",
+      "Dark"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Fairy",
+      "Grass",
+      "Electric",
+      "Fighting",
+      "Bug"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/130_megas.png",
+    "height": "6.5  m",
+    "weight": "305.0 kg",
+    "category": "Atrocious",
+    "gender": "both",
+    "mega": true
+  },
+  {
+    "name": "Gigantamax Lapras",
+    "id": 131,
+    "number": "131",
+    "image": "/megaEvolutions/131_max.png",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "backGroundColor": "#4d90d5",
+    "weaknesses": [
+      "Grass",
+      "Electric",
+      "Fighting",
+      "Rock"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/131_maxs.png",
+    "height": ">24.0  m",
+    "weight": "???.? kg",
+    "category": "Transport",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Gigantamax Eevee",
+    "id": 133,
+    "number": "133",
+    "image": "/megaEvolutions/133_max.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#9099a1",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 8,
+    "region": "GALAR",
+    "shiny": "/megaEvolutions/133_maxs.png",
+    "height": ">18.0  m",
+    "weight": "???.? kg",
+    "category": "Evolution",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Mega Aerodactyl",
+    "id": 142,
+    "number": "142",
+    "image": "/megaEvolutions/142_mega.png",
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Steel",
+      "Water",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 6,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/142_megas.png",
+    "height": "2.1  m",
+    "weight": "79.0 kg",
+    "category": "Fossil",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Gigantamax Snorlax",
+    "id": 143,
+    "number": "143",
+    "image": "/megaEvolutions/143_max.png",
+    "type": [
+      "Normal"
+    ],
+    "backGroundColor": "#c7b78b",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "generation": 8,
+    "region": "Galar",
+    "shiny": "/megaEvolutions/143_maxs.png",
+    "height": ">35.0  m",
+    "weight": "???.? kg",
+    "category": "Sleeping",
+    "gender": "both",
+    "mega": false
+  },
+  {
+    "name": "Galarian Articuno",
+    "id": 144,
+    "number": "144",
+    "image": "/megaEvolutions/144_galarian.png",
+    "type": [
+      "Psychic",
+      "Flying"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 8,
+    "region": "Galar",
+    "shiny": "/megaEvolutions/144_galarians.png",
+    "height": "1.7  m",
+    "weight": "50.9 kg",
+    "category": "Cruel",
+    "gender": "unknown",
+    "mega": false
+  },
+  {
+    "name": "Galarian Zapdos",
+    "id": 145,
+    "number": "145",
+    "image": "/megaEvolutions/145_galarian.png",
+    "type": [
+      "Fighting",
+      "Flying"
+    ],
+    "backGroundColor": "#ce4069",
+    "weaknesses": [
+      "Psychic",
+      "Flying",
+      "Fairy",
+      "Electric",
+      "Ice"
+    ],
+    "generation": 8,
+    "region": "Galar",
+    "shiny": "/megaEvolutions/145_galarians.png",
+    "height": "1.6  m",
+    "weight": "58.2 kg",
+    "category": "Strong Legs",
+    "gender": "unknown",
+    "mega": false
+  },
+  {
+    "name": "Galarian Moltres",
+    "id": 146,
+    "number": "146",
+    "image": "/megaEvolutions/146_galarian.png",
+    "type": [
+      "Dark",
+      "Flying"
+    ],
+    "backGroundColor": "#5a5366",
+    "weaknesses": [
+      "Fairy",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "generation": 8,
+    "region": "Galar",
+    "shiny": "/megaEvolutions/146_galarians.png",
+    "height": "2.0  m",
+    "weight": "66.0 kg",
+    "category": "Malevolent",
+    "gender": "unknown",
+    "mega": false
+  },
+  {
+    "name": "Mega Mewtwo X",
+    "id": 150,
+    "number": "150",
+    "image": "/megaEvolutions/150_megaX.png",
+    "type": [
+      "Psychic",
+      "Fighting"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Fairy",
+      "Flying"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/150_megaXs.png",
+    "height": "2.3  m",
+    "weight": "127.0 kg",
+    "category": "Genetic",
+    "gender": "unknown",
+    "mega": true
+  },
+  {
+    "name": "Mega Mewtwo Y",
+    "id": 150,
+    "number": "150",
+    "image": "/megaEvolutions/150_megaY.png",
+    "type": [
+      "Psychic"
+    ],
+    "backGroundColor": "#f97176",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug"
+    ],
+    "generation": 1,
+    "region": "KANTO",
+    "shiny": "/megaEvolutions/150_megaYs.png",
+    "height": "1.5 m",
+    "weight": "33.0 kg",
+    "category": "Genetic",
+    "gender": "unknown",
+    "mega": true
   }
 ]

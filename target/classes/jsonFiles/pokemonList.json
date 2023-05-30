@@ -965,30 +965,6 @@
     "mega": false,
     "alternativeVersion": false
   },
-  {
-    "name": "Wigglytuff",
-    "id": 40,
-    "number": "040",
-    "image": "/images/040.png",
-    "type": [
-      "Normal",
-      "Fairy"
-    ],
-    "backGroundColor": "#9099a1",
-    "weaknesses": [
-      "Steel",
-      "Poison"
-    ],
-    "generation": 1,
-    "region": "KANTO",
-    "shiny": "/shiny/s (40).png",
-    "height": "1.0 m",
-    "weight": "12.0 kg",
-    "category": "Balloon",
-    "gender": "both",
-    "mega": false,
-    "alternativeVersion": false
-  },
 
   {
     "name": "Zubat",

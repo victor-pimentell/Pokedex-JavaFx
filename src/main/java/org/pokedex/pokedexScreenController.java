@@ -4,10 +4,13 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+import javafx.scene.control.TextFormatter;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
+import javafx.util.converter.IntegerStringConverter;
 import org.pokemon.Pokemon;
 import org.pokemon.PokemonController;
 
@@ -118,7 +121,6 @@ public class pokedexScreenController {
     @FXML
     private Label genderText;
 
-
     private List<Pokemon> pokemons;
 
     @FXML
@@ -142,19 +144,22 @@ public class pokedexScreenController {
     @FXML
     private Button myButton;
 
+    @FXML
+    private TextField searchText;
+
+    @FXML
+    private Button activateSearch;
+
+    @FXML
+    private Button search;
+
     private PokemonController controller = new PokemonController();
-
     private Pokemon i;
-
     private int index = 0;
-
     private int megaIndex = 0;
-
     private String[] typesPart;
-
     private int shinyButtonMemory = 0;
     private List<Pokemon> megaPokemons;
-
     private ArrayList<Pokemon> matchingObjects = new ArrayList<Pokemon>();
 
     public void start(ActionEvent event) throws IOException {
@@ -165,6 +170,29 @@ public class pokedexScreenController {
         i = pokemons.get(index);
         updateLabels();
         imageUpdate();
+    }
+
+    public void setActivateSearch(ActionEvent event) {
+        activateSearch.setVisible(false);
+        search.setVisible(true);
+        searchText.setVisible(true);
+        onlyNumbers();
+    }
+
+    public void setSearch(ActionEvent event) {
+        String numero = searchText.getText();
+        int n = Integer.parseInt(numero);
+        if (n-1 > 0 && n-1 < pokemons.size()) {
+            index = n - 1;
+            i = pokemons.get(index);
+            updateLabels();
+            imageUpdate();
+            cleanMega();
+            megaIndex = 0;
+            searchText.setText("");
+        }else {
+            searchText.setText("");
+        }
     }
 
     public void setButtons() {
@@ -180,6 +208,7 @@ public class pokedexScreenController {
         genderText.setVisible(true);
         startButton.setVisible(false);
         myButton.setVisible(true);
+        activateSearch.setVisible(true);
     }
 
     public void rightButton() {
@@ -225,7 +254,6 @@ public class pokedexScreenController {
     }
 
     public void verifyNameSize(String name) {
-        System.out.println(name.length());
         if (name.length() > 19) {
             nameLabel.setLayoutX(449);
             nameLabel.setLayoutY(189);
@@ -565,5 +593,20 @@ public class pokedexScreenController {
         } else {
             megaSymbol.setImage(null);
         }
+    }
+
+    public void onlyNumbers() {
+        String pattern = "\\d*";
+        TextFormatter<Integer> textFormatter = new TextFormatter<>(
+                new IntegerStringConverter(),
+                0,
+                c -> {
+                    if (c.getControlNewText().matches(pattern)) {
+                        return c;
+                    } else {
+                        return null;
+                    }
+                });
+        searchText.setTextFormatter(textFormatter);
     }
 }

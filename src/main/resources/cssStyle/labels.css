@@ -77,3 +77,10 @@
     -fx-alignment: center;
     -fx-font-size: 15;
 }
+
+.text-field {
+
+    -fx-text-fill: Black;
+    -fx-font-family: 'Bebas Neue', cursive;
+    -fx-font-size: 15;
+}

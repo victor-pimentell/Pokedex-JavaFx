@@ -22,7 +22,8 @@
     "weight": "6.9 kg",
     "category": "Seed",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Ivysaur",
@@ -47,7 +48,8 @@
     "weight": "13.0 kg",
     "category": "Seed",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Venusaur",
@@ -72,7 +74,8 @@
     "weight": "100.0 kg",
     "category": "Seed",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Charmander",
@@ -95,7 +98,8 @@
     "weight": "8.5 kg",
     "category": "Lizard",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Charmeleon",
@@ -118,7 +122,8 @@
     "weight": "19.0 kg",
     "category": "Flame",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Charizard",
@@ -142,7 +147,8 @@
     "weight": "90.5 kg",
     "category": "Flame",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Squirtle",
@@ -164,7 +170,8 @@
     "weight": "9.0 kg",
     "category": "Tiny Turtle",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Wartortle",
@@ -186,7 +193,8 @@
     "weight": "22.5 kg",
     "category": "Turtle",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Blastoise",
@@ -208,7 +216,8 @@
     "weight": "85.5 kg",
     "category": "Shellfish",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Caterpie",
@@ -231,7 +240,8 @@
     "weight": "2.9 kg",
     "category": "Worm",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Metapod",
@@ -254,7 +264,8 @@
     "weight": "9.9 kg",
     "category": "Cocoon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Butterfree",
@@ -280,7 +291,8 @@
     "weight": "32.0 kg",
     "category": "Butterfly",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Weedle",
@@ -305,7 +317,8 @@
     "weight": "3.2 kg",
     "category": "Hairy Bug",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Kakuna",
@@ -330,7 +343,8 @@
     "weight": "10.0 kg",
     "category": "Cocoon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Beedrill",
@@ -355,7 +369,8 @@
     "weight": "29.5 kg",
     "category": "Poison Bee",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Pidgey",
@@ -379,7 +394,8 @@
     "weight": "1.8 kg",
     "category": "Tiny Bird",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Pidgeotto",
@@ -403,7 +419,8 @@
     "weight": "30.0 kg",
     "category": "Bird",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Pidgeot",
@@ -427,7 +444,8 @@
     "weight": "39.5 kg",
     "category": "Bird",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Rattata",
@@ -448,7 +466,8 @@
     "weight": "3.5 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Raticate",
@@ -469,7 +488,8 @@
     "weight": "18.5 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Spearow",
@@ -493,7 +513,8 @@
     "weight": "2.0 kg",
     "category": "Tiny Bird",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Fearow",
@@ -517,7 +538,8 @@
     "weight": "38.0 kg",
     "category": "Beak",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Ekans",
@@ -539,7 +561,8 @@
     "weight": "6.9 kg",
     "category": "Snake",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Arbok",
@@ -561,7 +584,8 @@
     "weight": "65.0 kg",
     "category": "Cobra",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Pikachu",
@@ -582,7 +606,8 @@
     "weight": "6.0 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Raichu",
@@ -603,7 +628,8 @@
     "weight": "30.0 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Sandshrew",
@@ -626,7 +652,8 @@
     "weight": "12.0 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Sandslash",
@@ -649,7 +676,8 @@
     "weight": "29.5 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Nidoran",
@@ -671,7 +699,8 @@
     "weight": "7.0 kg",
     "category": "Poison Pin",
     "gender": "female",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Nidorina",
@@ -693,7 +722,8 @@
     "weight": "20.0 kg",
     "category": "Poison Pin",
     "gender": "female",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Nidoqueen",
@@ -718,7 +748,8 @@
     "weight": "60.0 kg",
     "category": "Drill",
     "gender": "female",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Nidoran",
@@ -740,7 +771,8 @@
     "weight": "9.0 kg",
     "category": "Poison Pin",
     "gender": "male",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Nidorino",
@@ -762,7 +794,8 @@
     "weight": "19.5 kg",
     "category": "Poison Pin",
     "gender": "male",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Nidoking",
@@ -787,7 +820,8 @@
     "weight": "62.0 kg",
     "category": "Drill",
     "gender": "male",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Clefairy",
@@ -809,7 +843,8 @@
     "weight": "7.5 kg",
     "category": "Fairy",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Clefable",
@@ -831,7 +866,8 @@
     "weight": "40.0 kg",
     "category": "Fairy",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Vulpix",
@@ -854,7 +890,8 @@
     "weight": "9.9 kg",
     "category": "Fox",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Ninetales",
@@ -877,7 +914,8 @@
     "weight": "19.9 kg",
     "category": "Fox",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Jigglypuff",
@@ -900,7 +938,8 @@
     "weight": "5.5 kg",
     "category": "Balloon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Wigglytuff",
@@ -923,7 +962,8 @@
     "weight": "12.0 kg",
     "category": "Balloon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Wigglytuff",
@@ -946,7 +986,8 @@
     "weight": "12.0 kg",
     "category": "Balloon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
 
   {
@@ -972,7 +1013,8 @@
     "weight": "7.5 kg",
     "category": "Bat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Golbat",
@@ -997,7 +1039,8 @@
     "weight": "55.0 kg",
     "category": "Bat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Oddish",
@@ -1022,7 +1065,8 @@
     "weight": "5.4 kg",
     "category": "Weed",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gloom",
@@ -1047,7 +1091,8 @@
     "weight": "8.6 kg",
     "category": "Weed",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Vileplume",
@@ -1072,7 +1117,8 @@
     "weight": "18.6 kg",
     "category": "Flower",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Paras",
@@ -1099,7 +1145,8 @@
     "weight": "5.4 kg",
     "category": "Mushroom",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Parasect",
@@ -1126,7 +1173,8 @@
     "weight": "29.5 kg",
     "category": "Mushroom",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Venonat",
@@ -1151,7 +1199,8 @@
     "weight": "30.0 kg",
     "category": "Insect",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Venomoth",
@@ -1176,7 +1225,8 @@
     "weight": "12.5 kg",
     "category": "Poison Moth",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Diglett",
@@ -1199,7 +1249,8 @@
     "weight": "0.8 kg",
     "category": "Mole",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Dugtrio",
@@ -1222,7 +1273,8 @@
     "weight": "33.3 kg",
     "category": "Mole",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Meowth",
@@ -1243,7 +1295,8 @@
     "weight": "4.2 kg",
     "category": "Scratch Cat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Persian",
@@ -1264,7 +1317,8 @@
     "weight": "32.0 kg",
     "category": "Classy Cat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Psyduck",
@@ -1286,7 +1340,8 @@
     "weight": "19.6 kg",
     "category": "Duck",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Golduck",
@@ -1308,7 +1363,8 @@
     "weight": "76.6 kg",
     "category": "Duck",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mankey",
@@ -1331,7 +1387,8 @@
     "weight": "28.0 kg",
     "category": "Pig Monkey",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Primeape",
@@ -1354,7 +1411,8 @@
     "weight": "32.0 kg",
     "category": "Pig Monkey",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Growlithe",
@@ -1377,7 +1435,8 @@
     "weight": "19.0 kg",
     "category": "Puppy",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Arcanine",
@@ -1400,7 +1459,8 @@
     "weight": "155.0 kg",
     "category": "Legendary",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Poliwag",
@@ -1422,7 +1482,8 @@
     "weight": "12.4 kg",
     "category": "Tadpole",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Poliwhirl",
@@ -1444,7 +1505,8 @@
     "weight": "20.0 kg",
     "category": "Tadpole",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Poliwrath",
@@ -1470,7 +1532,8 @@
     "weight": "54.0 kg",
     "category": "Tadpole",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Abra",
@@ -1493,7 +1556,8 @@
     "weight": "19.5 kg",
     "category": "Psi",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Kadabra",
@@ -1516,7 +1580,8 @@
     "weight": "56.5 kg",
     "category": "Psi",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alakazam",
@@ -1539,7 +1604,8 @@
     "weight": "48.0 kg",
     "category": "Psi",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Machop",
@@ -1562,7 +1628,8 @@
     "weight": "19.5 kg",
     "category": "Superpower",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Machoke",
@@ -1585,7 +1652,8 @@
     "weight": "70.5 kg",
     "category": "Superpower",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Machamp",
@@ -1608,7 +1676,8 @@
     "weight": "130.0 kg",
     "category": "Superpower",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Bellsprout",
@@ -1633,7 +1702,8 @@
     "weight": "4.0 kg",
     "category": "Flower",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Weepinbell",
@@ -1658,7 +1728,8 @@
     "weight": "6.4 kg",
     "category": "Flycatcher",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Victreebel",
@@ -1683,7 +1754,8 @@
     "weight": "15.5 kg",
     "category": "Flycatcher",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Tentacool",
@@ -1707,7 +1779,8 @@
     "weight": "45.5 kg",
     "category": "Jellyfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Tentacruel",
@@ -1731,7 +1804,8 @@
     "weight": "55.0 kg",
     "category": "Jellyfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Geodude",
@@ -1758,7 +1832,8 @@
     "weight": "20.0 kg",
     "category": "Rock",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Graveler",
@@ -1785,7 +1860,8 @@
     "weight": "105.0 kg",
     "category": "Rock",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Golem",
@@ -1812,7 +1888,8 @@
     "weight": "300.0 kg",
     "category": "Megaton",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Ponyta",
@@ -1835,7 +1912,8 @@
     "weight": "30.0 kg",
     "category": "Fire Horse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Rapidash",
@@ -1858,7 +1936,8 @@
     "weight": "95.0 kg",
     "category": "Fire Horse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Slowpoke",
@@ -1884,7 +1963,8 @@
     "weight": "36.0 kg",
     "category": "Dopey",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Slowbro",
@@ -1910,7 +1990,8 @@
     "weight": "78.5 kg",
     "category": "Hermit Crab",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Magnemite",
@@ -1934,7 +2015,8 @@
     "weight": "6.0 kg",
     "category": "Magnet",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Magneton",
@@ -1958,7 +2040,8 @@
     "weight": "60.0 kg",
     "category": "Magnet",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Farfetch'd",
@@ -1982,7 +2065,8 @@
     "weight": "15.0 kg",
     "category": "Wild Duck",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Doduo",
@@ -2006,7 +2090,8 @@
     "weight": "39.2 kg",
     "category": "Twin Bird",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Dodrio",
@@ -2030,7 +2115,8 @@
     "weight": "85.2 kg",
     "category": "Triple Bird",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Seel",
@@ -2054,7 +2140,8 @@
     "weight": "90.0 kg",
     "category": "Sea Lion",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Dewgong",
@@ -2079,7 +2166,8 @@
     "weight": "120.0 kg",
     "category": "Sea Lion",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Grimer",
@@ -2101,7 +2189,8 @@
     "weight": "30.0 kg",
     "category": "Sludge",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Muk",
@@ -2123,7 +2212,8 @@
     "weight": "30.0 kg",
     "category": "Sludge",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Shellder",
@@ -2147,7 +2237,8 @@
     "weight": "4.0 kg",
     "category": "Bivalve",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Cloyster",
@@ -2172,7 +2263,8 @@
     "weight": "132.5 kg",
     "category": "Bivalve",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gastly",
@@ -2197,7 +2289,8 @@
     "weight": "0.1 kg",
     "category": "Gas",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Haunter",
@@ -2222,7 +2315,8 @@
     "weight": "0.1 kg",
     "category": "Gas",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gengar",
@@ -2247,7 +2341,8 @@
     "weight": "40.5 kg",
     "category": "Shadow",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Onix",
@@ -2274,7 +2369,8 @@
     "weight": "210.0 kg",
     "category": "Rock Snake",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Drowzee",
@@ -2297,7 +2393,8 @@
     "weight": "32.4 kg",
     "category": "Hypnosis",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Hypno",
@@ -2320,7 +2417,8 @@
     "weight": "75.6 kg",
     "category": "Hypnosis",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Krabby",
@@ -2344,7 +2442,8 @@
     "weight": "6.5 kg",
     "category": "River Crab",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Kingler",
@@ -2368,7 +2467,8 @@
     "weight": "60.0 kg",
     "category": "Pincer",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Voltorb",
@@ -2389,7 +2489,8 @@
     "weight": "10.4 kg",
     "category": "Ball",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Electrode",
@@ -2410,7 +2511,8 @@
     "weight": "66.6 kg",
     "category": "Ball",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Exeggcute",
@@ -2438,7 +2540,8 @@
     "weight": "2.5 kg",
     "category": "Egg",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Exeggutor",
@@ -2466,7 +2569,8 @@
     "weight": "120.0 kg",
     "category": "Coconut",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Cubone",
@@ -2489,7 +2593,8 @@
     "weight": "6.5 kg",
     "category": "Lonely",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Marowak",
@@ -2512,7 +2617,8 @@
     "weight": "45.0 kg",
     "category": "Bone Keeper",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Hitmonlee",
@@ -2535,7 +2641,8 @@
     "weight": "49.8 kg",
     "category": "Kicking",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Hitmonchan",
@@ -2558,7 +2665,8 @@
     "weight": "50.2 kg",
     "category": "Punching",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Lickitung",
@@ -2579,7 +2687,8 @@
     "weight": "65.5 kg",
     "category": "Licking",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Koffing",
@@ -2601,7 +2710,8 @@
     "weight": "1.0 kg",
     "category": "Poison Gas",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Weezing",
@@ -2623,7 +2733,8 @@
     "weight": "9.5 kg",
     "category": "Poison Gas",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Rhyhorn",
@@ -2650,7 +2761,8 @@
     "weight": "115.0 kg",
     "category": "Spikes",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Rhydon",
@@ -2677,7 +2789,8 @@
     "weight": "120.0 kg",
     "category": "Drill",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Chansey",
@@ -2698,7 +2811,8 @@
     "weight": "34.6 kg",
     "category": "Egg",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Tangela",
@@ -2723,7 +2837,8 @@
     "weight": "35.0 kg",
     "category": "Vine",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Kangaskhan",
@@ -2744,7 +2859,8 @@
     "weight": "80.0 kg",
     "category": "Parent",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Horsea",
@@ -2766,7 +2882,8 @@
     "weight": "8.0 kg",
     "category": "Dragon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Seadra",
@@ -2788,7 +2905,8 @@
     "weight": "25.0 kg",
     "category": "Dragon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Goldeen",
@@ -2810,7 +2928,8 @@
     "weight": "15.0 kg",
     "category": "Goldfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Seaking",
@@ -2832,7 +2951,8 @@
     "weight": "39.0 kg",
     "category": "Goldfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Staryu",
@@ -2854,7 +2974,8 @@
     "weight": "34.5 kg",
     "category": "Star Shape",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Starmie",
@@ -2880,7 +3001,8 @@
     "weight": "80.0 kg",
     "category": "Mysterious",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mr. Mime",
@@ -2904,7 +3026,8 @@
     "weight": "54.5 kg",
     "category": "Barrier",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Scyther",
@@ -2928,7 +3051,8 @@
     "weight": "56.0 kg",
     "category": "Mantis",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Jynx",
@@ -2955,7 +3079,8 @@
     "weight": "40.6 kg",
     "category": "Human Shape",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Electabuzz",
@@ -2976,7 +3101,8 @@
     "weight": "30.0 kg",
     "category": "Electric",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Magmar",
@@ -2999,7 +3125,8 @@
     "weight": "44.5 kg",
     "category": "Spitfire",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Pinsir",
@@ -3022,7 +3149,8 @@
     "weight": "55.0 kg",
     "category": "Stag Beetle",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Tauros",
@@ -3043,7 +3171,8 @@
     "weight": "88.4 kg",
     "category": "Wild Bull",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Magikarp",
@@ -3065,7 +3194,8 @@
     "weight": "10.0 kg",
     "category": "Fish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gyarados",
@@ -3088,7 +3218,8 @@
     "weight": "235.0 kg",
     "category": "Atrocious",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Lapras",
@@ -3113,7 +3244,8 @@
     "weight": "220.0 kg",
     "category": "Transport",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Ditto",
@@ -3134,7 +3266,8 @@
     "weight": "4.0 kg",
     "category": "Transform",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Eevee",
@@ -3155,7 +3288,8 @@
     "weight": "6.5 kg",
     "category": "Evolution",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Vaporeon",
@@ -3177,7 +3311,8 @@
     "weight": "29.0 kg",
     "category": "Bubble Jet",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Jolteon",
@@ -3198,7 +3333,8 @@
     "weight": "24.5 kg",
     "category": "Lightning",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Flareon",
@@ -3221,7 +3357,8 @@
     "weight": "25.0 kg",
     "category": "Flame",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Porygon",
@@ -3242,7 +3379,8 @@
     "weight": "36.5 kg",
     "category": "Virtual",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Omanyte",
@@ -3267,7 +3405,8 @@
     "weight": "7.5 kg",
     "category": "Spiral",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Omastar",
@@ -3292,7 +3431,8 @@
     "weight": "35.0 kg",
     "category": "Spiral",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Kabuto",
@@ -3317,7 +3457,8 @@
     "weight": "11.5 kg",
     "category": "Shellfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Kabutops",
@@ -3342,7 +3483,8 @@
     "weight": "40.5 kg",
     "category": "Shellfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Aerodactyl",
@@ -3368,7 +3510,8 @@
     "weight": "59.0 kg",
     "category": "Fossil",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Snorlax",
@@ -3389,7 +3532,8 @@
     "weight": "460.0 kg",
     "category": "Sleeping",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Articuno",
@@ -3414,7 +3558,8 @@
     "weight": "55.4 kg",
     "category": "Freeze",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Zapdos",
@@ -3437,7 +3582,8 @@
     "weight": "52.6 kg",
     "category": "Electric",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Moltres",
@@ -3461,7 +3607,8 @@
     "weight": "60.0 kg",
     "category": "Flame",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Dratini",
@@ -3484,7 +3631,8 @@
     "weight": "3.3 kg",
     "category": "Dragon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Dragonair",
@@ -3507,7 +3655,8 @@
     "weight": "16.5 kg",
     "category": "Dragon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Dragonite",
@@ -3532,7 +3681,8 @@
     "weight": "210.0 kg",
     "category": "Dragon",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mewtwo",
@@ -3555,7 +3705,8 @@
     "weight": "122.0 kg",
     "category": "Genetic",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mew",
@@ -3578,6 +3729,7 @@
     "weight": "4.0 kg",
     "category": "New Species",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   }
 ]

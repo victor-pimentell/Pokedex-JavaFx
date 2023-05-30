@@ -21,7 +21,7 @@
          <graphic>
             <FontIcon iconLiteral="typ-media-play" />
          </graphic></Button>
-      <Label fx:id="nameLabel" layoutX="467.0" layoutY="196.0" prefHeight="26.0" prefWidth="150.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
+      <Label fx:id="nameLabel" layoutX="467.0" layoutY="196.0" prefHeight="26.0" prefWidth="246.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
       <Label fx:id="numberLabel" layoutX="617.0" layoutY="196.0" prefHeight="25.0" prefWidth="48.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
       <Label fx:id="typeOneLabel" layoutX="453.0" layoutY="344.0" prefHeight="25.0" prefWidth="77.0" stylesheets="@../cssStyle/labels.css" />
       <Label fx:id="typeTwoLabel" layoutX="554.0" layoutY="345.0" prefHeight="25.0" prefWidth="77.0" stylesheets="@../cssStyle/labels.css" />

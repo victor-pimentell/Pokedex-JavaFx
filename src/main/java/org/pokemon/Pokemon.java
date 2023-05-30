@@ -20,6 +20,15 @@ public class Pokemon {
     private String category;
     private String gender;
     private boolean mega;
+    private boolean alternativeVersion;
+
+    public boolean isAlternativeVersion() {
+        return alternativeVersion;
+    }
+
+    public void setAlternativeVersion(boolean alternativeVersion) {
+        this.alternativeVersion = alternativeVersion;
+    }
 
     public boolean isMega() {
         return mega;

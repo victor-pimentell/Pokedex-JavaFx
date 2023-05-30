@@ -210,6 +210,7 @@ public class pokedexScreenController {
 
     public void updateLabels() {
         nameLabel.setText(i.getName());
+        verifyNameSize(i.getName());
         numberLabel.setText("N°" + i.getNumber());
         regionLabel.setText(i.getRegion());
         generationLabel.setText(i.getGeneration() + "° GENERATION");
@@ -221,6 +222,21 @@ public class pokedexScreenController {
         categoryLabel.setText(i.getCategory());
         genderUpdate();
         megaIconUpdate();
+    }
+
+    public void verifyNameSize(String name) {
+        System.out.println(name.length());
+        if (name.length() > 19) {
+            nameLabel.setLayoutX(449);
+            nameLabel.setLayoutY(189);
+            numberLabel.setLayoutX(632);
+            numberLabel.setLayoutY(214);
+        }else {
+            nameLabel.setLayoutX(467);
+            nameLabel.setLayoutY(196);
+            numberLabel.setLayoutX(617);
+            numberLabel.setLayoutY(196);
+        }
     }
 
     public void typeUpdade() {

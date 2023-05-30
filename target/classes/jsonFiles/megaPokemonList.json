@@ -22,7 +22,8 @@
     "weight": "155.5 kg",
     "category": "Seed",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Venusaur",
@@ -47,7 +48,8 @@
     "weight": "???.? kg",
     "category": "Seed",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Charizard X",
@@ -71,7 +73,8 @@
     "weight": "110.5 kg",
     "category": "Flame",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Charizard Y",
@@ -95,7 +98,8 @@
     "weight": "100.5 kg",
     "category": "Flame",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Charizard ",
@@ -119,7 +123,8 @@
     "weight": "???.? kg",
     "category": "Flame",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Blastoise",
@@ -141,7 +146,8 @@
     "weight": "101.1 kg",
     "category": "Shellfish",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Blastoise",
@@ -163,7 +169,8 @@
     "weight": "???.? kg",
     "category": "Shellfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Butterfree",
@@ -189,7 +196,8 @@
     "weight": "???.? kg",
     "category": "Shellfish",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Beedrill",
@@ -214,7 +222,8 @@
     "weight": "40.5 kg",
     "category": "Poison Bee",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Pidgeot",
@@ -238,7 +247,8 @@
     "weight": "50.5 kg",
     "category": "Bird",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Rattata",
@@ -262,7 +272,8 @@
     "weight": "3.8 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Raticate",
@@ -286,7 +297,8 @@
     "weight": "25.5 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Pikachu",
@@ -307,7 +319,8 @@
     "weight": "???.? kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Raichu",
@@ -332,7 +345,8 @@
     "weight": "21.0 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Sandshrew",
@@ -356,7 +370,8 @@
     "weight": "40.0 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Sandslash",
@@ -380,7 +395,8 @@
     "weight": "55.0 kg",
     "category": "Mouse",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Vulpix",
@@ -404,7 +420,8 @@
     "weight": "9.9 kg",
     "category": "Fox",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Ninetales",
@@ -429,7 +446,8 @@
     "weight": "19.9 kg",
     "category": "Fox",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Diglett",
@@ -454,7 +472,8 @@
     "weight": "1.0 kg",
     "category": "Mole",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Dugtrio",
@@ -479,7 +498,8 @@
     "weight": "66.6 kg",
     "category": "Mole",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Meowth",
@@ -502,7 +522,8 @@
     "weight": "4.2 kg",
     "category": "Scratch Cat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Meowth",
@@ -525,7 +546,8 @@
     "weight": "7.5 kg",
     "category": "Scratch Cat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Meowth",
@@ -546,7 +568,8 @@
     "weight": "???.? kg",
     "category": "Scratch Cat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Persian",
@@ -569,7 +592,8 @@
     "weight": "33.0 kg",
     "category": "Classy Cat",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Hisuian Growlithe",
@@ -594,7 +618,8 @@
     "weight": "22.7 kg",
     "category": "Scout",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Hisuian Arcanine",
@@ -619,7 +644,8 @@
     "weight": "168.0 kg",
     "category": "Legendary",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Alakazam",
@@ -642,7 +668,8 @@
     "weight": "48.0 kg",
     "category": "Psi",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Machamp",
@@ -665,7 +692,8 @@
     "weight": "???.? kg",
     "category": "Superpower",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Geodude",
@@ -690,7 +718,8 @@
     "weight": "20.3 kg",
     "category": "Rock",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Graveler",
@@ -715,7 +744,8 @@
     "weight": "110.0 kg",
     "category": "Rock",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Golem",
@@ -740,7 +770,8 @@
     "weight": "316.0 kg",
     "category": "Megaton",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Ponyta",
@@ -763,7 +794,8 @@
     "weight": "24.0 kg",
     "category": "Unique Horn",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Ponyta",
@@ -786,7 +818,8 @@
     "weight": "80.0 kg",
     "category": "Unique Horn",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Slowpoke",
@@ -809,7 +842,8 @@
     "weight": "36.0 kg",
     "category": "Dopey",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Slowbro",
@@ -833,7 +867,8 @@
     "weight": "70.5 kg",
     "category": "Hermit Crab",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Slowbro",
@@ -859,7 +894,8 @@
     "weight": "120.0 kg",
     "category": "Hermit Crab",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Grimer",
@@ -881,7 +917,8 @@
     "weight": "42.0 kg",
     "category": "Sludge",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Grimer",
@@ -903,7 +940,8 @@
     "weight": "52.0 kg",
     "category": "Sludge",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Gengar",
@@ -928,7 +966,8 @@
     "weight": "40.5 kg",
     "category": "Shadow",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Gengar",
@@ -953,7 +992,8 @@
     "weight": "???.? kg",
     "category": "Shadow",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Kingler",
@@ -975,7 +1015,8 @@
     "weight": "???.? kg",
     "category": "Pincer",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Hisuian Voltorb",
@@ -1000,7 +1041,8 @@
     "weight": "13.0 kg",
     "category": "Sphere",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Hisuian Electrode",
@@ -1025,7 +1067,8 @@
     "weight": "71.0 kg",
     "category": "Sphere",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Exeggutor",
@@ -1052,7 +1095,8 @@
     "weight": "415.6 kg",
     "category": "Coconut",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Alolan Marowak",
@@ -1078,7 +1122,8 @@
     "weight": "34.0 kg",
     "category": "Bone Keeper",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Weezing",
@@ -1102,7 +1147,8 @@
     "weight": "16.0 kg",
     "category": "Poison Gas",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Kangaskhan",
@@ -1123,7 +1169,8 @@
     "weight": "100.0 kg",
     "category": "Parent",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Mr. Mime",
@@ -1150,7 +1197,8 @@
     "weight": "56.8 kg",
     "category": "Dancing",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Pinsir",
@@ -1176,7 +1224,8 @@
     "weight": "59.0 kg",
     "category": "Stag Beetle",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Paldean Tauros (Combat Breed)",
@@ -1199,7 +1248,8 @@
     "weight": "115.0 kg",
     "category": "Wild Bull",
     "gender": "male",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Paldean Tauros (Blaze Breed)",
@@ -1224,7 +1274,8 @@
     "weight": "85.0 kg",
     "category": "Wild Bull",
     "gender": "male",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Paldean Tauros (Blaze Aqua)",
@@ -1250,7 +1301,8 @@
     "weight": "110.0 kg",
     "category": "Wild Bull",
     "gender": "male",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Gyarados",
@@ -1276,7 +1328,8 @@
     "weight": "305.0 kg",
     "category": "Atrocious",
     "gender": "both",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Lapras",
@@ -1301,7 +1354,8 @@
     "weight": "???.? kg",
     "category": "Transport",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Eevee",
@@ -1322,7 +1376,8 @@
     "weight": "???.? kg",
     "category": "Evolution",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Aerodactyl",
@@ -1348,7 +1403,8 @@
     "weight": "79.0 kg",
     "category": "Fossil",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Gigantamax Snorlax",
@@ -1369,7 +1425,8 @@
     "weight": "???.? kg",
     "category": "Sleeping",
     "gender": "both",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Articuno",
@@ -1395,7 +1452,8 @@
     "weight": "50.9 kg",
     "category": "Cruel",
     "gender": "unknown",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Zapdos",
@@ -1421,7 +1479,8 @@
     "weight": "58.2 kg",
     "category": "Strong Legs",
     "gender": "unknown",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Galarian Moltres",
@@ -1446,7 +1505,8 @@
     "weight": "66.0 kg",
     "category": "Malevolent",
     "gender": "unknown",
-    "mega": false
+    "mega": false,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Mewtwo X",
@@ -1470,7 +1530,8 @@
     "weight": "127.0 kg",
     "category": "Genetic",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   },
   {
     "name": "Mega Mewtwo Y",
@@ -1493,6 +1554,7 @@
     "weight": "33.0 kg",
     "category": "Genetic",
     "gender": "unknown",
-    "mega": true
+    "mega": true,
+    "alternativeVersion": false
   }
 ]

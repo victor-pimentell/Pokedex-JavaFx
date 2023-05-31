@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.pokedex.tutorialScreenController">
+   <children>
+      <ImageView fitHeight="588.0" fitWidth="855.0" layoutX="-12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../UIassets/tutorialImage.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="alternativeLabelTutorial" layoutX="6.0" layoutY="266.0" prefHeight="37.0" prefWidth="103.0" stylesheets="@../cssStyle/labels.css" text="Other forms like Alolan, Gigantamax" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Label>
+      <Label fx:id="megaLabelTutorial" layoutX="7.0" layoutY="313.0" prefHeight="44.0" prefWidth="103.0" stylesheets="@../cssStyle/labels.css" text="Mega Form" textAlignment="CENTER" />
+      <Label fx:id="searchLabelTutorial" layoutX="7.0" layoutY="382.0" prefHeight="50.0" prefWidth="103.0" stylesheets="@../cssStyle/labels.css" text="type the number and hit the search Button" textAlignment="CENTER" wrapText="true" />
+      <Label fx:id="moveLabelTutorial" layoutX="188.0" layoutY="520.0" prefHeight="44.0" prefWidth="89.0" stylesheets="@../cssStyle/labels.css" text="Move Buttons" wrapText="true" />
+      <Label fx:id="shinyLabelTutorial" layoutX="441.0" layoutY="265.0" prefHeight="37.0" prefWidth="77.0" stylesheets="@../cssStyle/labels.css" text="Shiny version" textAlignment="CENTER" wrapText="true" />
+      <Label fx:id="moveAlternativeTutorial" layoutX="485.0" layoutY="522.0" prefHeight="44.0" prefWidth="83.0" stylesheets="@../cssStyle/labels.css" text="Move through other forms" textAlignment="CENTER" wrapText="true" />
+   </children>
+</AnchorPane>

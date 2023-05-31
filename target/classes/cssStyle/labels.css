@@ -84,3 +84,33 @@
     -fx-font-family: 'Bebas Neue', cursive;
     -fx-font-size: 15;
 }
+
+#alternativeLabelTutorial {
+    -fx-alignment: center;
+    -fx-font-size: 12;
+}
+
+#megaLabelTutorial {
+    -fx-alignment: center;
+    -fx-font-size: 16;
+}
+
+#searchLabelTutorial {
+    -fx-alignment: center;
+    -fx-font-size: 13;
+}
+
+#moveLabelTutorial {
+    -fx-alignment: center;
+    -fx-font-size: 16;
+}
+
+#shinyLabelTutorial {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+}
+
+#moveAlternativeTutorial {
+    -fx-alignment: center;
+    -fx-font-size: 14;
+}

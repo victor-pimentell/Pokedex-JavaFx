@@ -1,4 +1,5 @@
 org\pokemon\Pokemon.class
+org\pokedex\tutorialScreenController.class
 org\pokedex\Main.class
 org\pokemon\PokemonController.class
 org\pokemon\PokemonController$2.class

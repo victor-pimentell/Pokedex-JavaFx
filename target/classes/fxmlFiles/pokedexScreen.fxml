@@ -62,8 +62,8 @@
       <Label fx:id="regionLabel" layoutX="264.0" layoutY="166.0" prefHeight="18.0" prefWidth="51.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
       <Label fx:id="generationLabel" alignment="CENTER" layoutX="61.0" layoutY="425.0" prefHeight="37.0" prefWidth="129.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
       <Button fx:id="shinyButtons" layoutX="253.0" layoutY="409.0" mnemonicParsing="false" onAction="#shinyUpdate" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
-      <Button fx:id="getMegaListButton" layoutX="253.0" layoutY="435.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" />
-      <Button fx:id="getMegaListButton2" layoutX="252.0" layoutY="383.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" />
+      <Button fx:id="getMegaListButton" layoutX="253.0" layoutY="435.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
+      <Button fx:id="getMegaListButton2" layoutX="252.0" layoutY="383.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
       <Button fx:id="downMega" layoutX="253.0" layoutY="435.0" mnemonicParsing="false" onAction="#megadown" opacity="0.0" prefHeight="0.0" prefWidth="27.0" visible="false" />
       <Button fx:id="upMega" layoutX="253.0" layoutY="383.0" mnemonicParsing="false" onAction="#megaUp" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
       <Label fx:id="heightText" layoutX="451.0" layoutY="255.0" prefHeight="25.0" prefWidth="41.0" stylesheets="@../cssStyle/labels.css" text="Height" textFill="WHITE" visible="false" />
@@ -83,5 +83,6 @@
          </graphic>
       </Button>
       <ImageView fx:id="alternativeIcon" fitHeight="22.0" fitWidth="22.0" layoutX="124.0" layoutY="330.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="tutorialButton" layoutX="667.0" layoutY="347.0" mnemonicParsing="false" onAction="#setTutorialButton" opacity="0.0" prefHeight="31.0" prefWidth="34.0" text="?" />
    </children>
 </AnchorPane>

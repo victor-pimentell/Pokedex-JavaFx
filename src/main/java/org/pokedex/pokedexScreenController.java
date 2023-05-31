@@ -2,6 +2,9 @@ package org.pokedex;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
@@ -153,6 +156,9 @@ public class pokedexScreenController {
     @FXML
     private ImageView alternativeIcon;
 
+    @FXML
+    private Button tutorialButton;
+
     private PokemonController controller = new PokemonController();
     private Pokemon i;
     private int index = 0;
@@ -205,6 +211,8 @@ public class pokedexScreenController {
         myButton.setVisible(true);
         search.setVisible(true);
         searchText.setVisible(true);
+        getMegaListButton.setVisible(true);
+        getMegaListButton2.setVisible(true);
     }
 
     public void rightButton() {
@@ -609,5 +617,21 @@ public class pokedexScreenController {
                     }
                 });
         searchText.setTextFormatter(textFormatter);
+    }
+
+    @FXML
+    void setTutorialButton(ActionEvent event) {
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/fxmlFiles/tutorialScreen.fxml"));
+        Parent root1 = null;
+        try {
+            root1 = (Parent) fxmlLoader.load();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        Stage stage = new Stage();
+        stage.getIcons().add(new Image("/UIassets/icon.png"));
+        stage.setResizable(false);
+        stage.setScene(new Scene(root1));
+        stage.show();
     }
 }

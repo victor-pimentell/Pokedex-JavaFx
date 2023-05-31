@@ -148,9 +148,6 @@ public class pokedexScreenController {
     private TextField searchText;
 
     @FXML
-    private Button activateSearch;
-
-    @FXML
     private Button search;
 
     @FXML
@@ -169,17 +166,10 @@ public class pokedexScreenController {
         setButtons();
         pokemons = controller.createPokedexData();
         megaPokemons = controller.createMegaPokemonData();
-
+        onlyNumbers();
         i = pokemons.get(index);
         updateLabels();
         imageUpdate();
-    }
-
-    public void setActivateSearch(ActionEvent event) {
-        activateSearch.setVisible(false);
-        search.setVisible(true);
-        searchText.setVisible(true);
-        onlyNumbers();
     }
 
     public void setSearch(ActionEvent event) {
@@ -213,7 +203,8 @@ public class pokedexScreenController {
         genderText.setVisible(true);
         startButton.setVisible(false);
         myButton.setVisible(true);
-        activateSearch.setVisible(true);
+        search.setVisible(true);
+        searchText.setVisible(true);
     }
 
     public void rightButton() {

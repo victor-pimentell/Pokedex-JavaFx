@@ -181,17 +181,19 @@ public class pokedexScreenController {
 
     public void setSearch(ActionEvent event) {
         String numero = searchText.getText();
-        int n = Integer.parseInt(numero);
-        if (n-1 > 0 && n-1 < pokemons.size()) {
-            index = n - 1;
-            i = pokemons.get(index);
-            updateLabels();
-            imageUpdate();
-            cleanMega();
-            megaIndex = 0;
-            searchText.setText("");
-        }else {
-            searchText.setText("");
+        if (!numero.equals("")) {
+            int n = Integer.parseInt(numero);
+            if (n - 1 > 0 && n - 1 < pokemons.size()) {
+                index = n - 1;
+                i = pokemons.get(index);
+                updateLabels();
+                imageUpdate();
+                cleanMega();
+                megaIndex = 0;
+                searchText.setText(numero);
+            } else {
+                searchText.setText("0");
+            }
         }
     }
 

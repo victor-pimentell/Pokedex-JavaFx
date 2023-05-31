@@ -79,8 +79,8 @@
 }
 
 .text-field {
-
-    -fx-text-fill: Black;
+    -fx-background-color: transparent;
+    -fx-text-fill: White;
     -fx-font-family: 'Bebas Neue', cursive;
     -fx-font-size: 15;
 }

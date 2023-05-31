@@ -76,13 +76,13 @@
       <Label fx:id="categoryLabel" layoutX="623.0" layoutY="294.0" prefHeight="21.0" prefWidth="61.0" stylesheets="@../cssStyle/labels.css" />
       <ImageView fx:id="genderIcon" fitHeight="26.0" fitWidth="41.0" layoutX="506.0" layoutY="291.0" pickOnBounds="true" preserveRatio="true" />
       <ImageView fx:id="megaSymbol" fitHeight="22.0" fitWidth="22.0" layoutX="106.0" layoutY="330.0" pickOnBounds="true" preserveRatio="true" />
-      <TextField fx:id="searchText" layoutX="143.0" layoutY="326.0" prefHeight="31.0" prefWidth="51.0" stylesheets="@../cssStyle/labels.css" visible="false" />
-      <Button fx:id="activateSearch" layoutX="200.0" layoutY="331.0" mnemonicParsing="false" onAction="#setActivateSearch" prefHeight="25.0" prefWidth="22.0" visible="false">
+      <TextField fx:id="searchText" layoutX="152.0" layoutY="326.0" prefHeight="31.0" prefWidth="51.0" stylesheets="@../cssStyle/labels.css" visible="false" />
+      <Button fx:id="activateSearch" layoutX="200.0" layoutY="331.0" mnemonicParsing="false" onAction="#setActivateSearch" opacity="0.0" prefHeight="20.0" prefWidth="20.0" visible="false">
          <graphic>
             <FontIcon iconLiteral="typ-zoom" wrappingWidth="9.0" />
          </graphic>
       </Button>
-      <Button fx:id="search" layoutX="200.0" layoutY="332.0" mnemonicParsing="false" onAction="#setSearch" visible="false">
+      <Button fx:id="search" layoutX="200.0" layoutY="332.0" mnemonicParsing="false" onAction="#setSearch" opacity="0.0" prefHeight="17.0" prefWidth="20.0" visible="false">
          <graphic>
             <FontIcon iconLiteral="typ-zoom" wrappingWidth="9.0" />
          </graphic>

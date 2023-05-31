@@ -153,6 +153,9 @@ public class pokedexScreenController {
     @FXML
     private Button search;
 
+    @FXML
+    private ImageView alternativeIcon;
+
     private PokemonController controller = new PokemonController();
     private Pokemon i;
     private int index = 0;
@@ -594,6 +597,11 @@ public class pokedexScreenController {
             megaSymbol.setImage(new Image("/UIassets/megaIcon.png"));
         } else {
             megaSymbol.setImage(null);
+        }
+        if (i.isAlternativeVersion()) {
+            alternativeIcon.setImage(new Image("/UIassets/alternativeIcon.png"));
+        } else {
+            alternativeIcon.setImage(null);
         }
     }
 

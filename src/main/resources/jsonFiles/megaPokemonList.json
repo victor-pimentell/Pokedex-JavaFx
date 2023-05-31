@@ -49,7 +49,7 @@
     "category": "Seed",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Charizard X",
@@ -123,8 +123,8 @@
     "weight": "???.? kg",
     "category": "Flame",
     "gender": "both",
-    "mega": true,
-    "alternativeVersion": false
+    "mega": false,
+    "alternativeVersion": true
   },
   {
     "name": "Mega Blastoise",
@@ -170,7 +170,7 @@
     "category": "Shellfish",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Gigantamax Butterfree",
@@ -197,7 +197,7 @@
     "category": "Shellfish",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Beedrill",
@@ -273,7 +273,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Raticate",
@@ -298,7 +298,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Gigantamax Pikachu",
@@ -320,7 +320,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Raichu",
@@ -346,7 +346,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Sandshrew",
@@ -371,7 +371,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Sandslash",
@@ -396,7 +396,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Vulpix",
@@ -421,7 +421,7 @@
     "category": "Fox",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Ninetales",
@@ -447,7 +447,7 @@
     "category": "Fox",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Diglett",
@@ -473,7 +473,7 @@
     "category": "Mole",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Dugtrio",
@@ -499,7 +499,7 @@
     "category": "Mole",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Meowth",
@@ -523,7 +523,7 @@
     "category": "Scratch Cat",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Meowth",
@@ -547,7 +547,7 @@
     "category": "Scratch Cat",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Gigantamax Meowth",
@@ -569,7 +569,7 @@
     "category": "Scratch Cat",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Persian",
@@ -593,7 +593,7 @@
     "category": "Classy Cat",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Hisuian Growlithe",
@@ -619,7 +619,7 @@
     "category": "Scout",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Hisuian Arcanine",
@@ -645,7 +645,7 @@
     "category": "Legendary",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Alakazam",
@@ -693,7 +693,7 @@
     "category": "Superpower",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Geodude",
@@ -719,7 +719,7 @@
     "category": "Rock",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Graveler",
@@ -745,7 +745,7 @@
     "category": "Rock",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Golem",
@@ -771,7 +771,7 @@
     "category": "Megaton",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Ponyta",
@@ -795,10 +795,10 @@
     "category": "Unique Horn",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
-    "name": "Galarian Ponyta",
+    "name": "Galarian Rapidash",
     "id": 78,
     "number": "078",
     "image": "/megaEvolutions/078_galarian.png",
@@ -819,7 +819,7 @@
     "category": "Unique Horn",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Slowpoke",
@@ -843,7 +843,7 @@
     "category": "Dopey",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Slowbro",
@@ -868,10 +868,10 @@
     "category": "Hermit Crab",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
-    "name": "Galarian Slowbro",
+    "name": "Mega Slowbro",
     "id": 80,
     "number": "080",
     "image": "/megaEvolutions/080_mega.png",
@@ -918,10 +918,10 @@
     "category": "Sludge",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
-    "name": "Alolan Grimer",
+    "name": "Alolan Muk",
     "id": 89,
     "number": "089",
     "image": "/megaEvolutions/088_alola.png",
@@ -941,7 +941,7 @@
     "category": "Sludge",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Gengar",
@@ -993,7 +993,7 @@
     "category": "Shadow",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Gigantamax Kingler",
@@ -1016,7 +1016,7 @@
     "category": "Pincer",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Hisuian Voltorb",
@@ -1042,7 +1042,7 @@
     "category": "Sphere",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Hisuian Electrode",
@@ -1068,7 +1068,7 @@
     "category": "Sphere",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Exeggutor",
@@ -1096,7 +1096,7 @@
     "category": "Coconut",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Alolan Marowak",
@@ -1123,7 +1123,7 @@
     "category": "Bone Keeper",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Weezing",
@@ -1148,7 +1148,7 @@
     "category": "Poison Gas",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Kangaskhan",
@@ -1198,7 +1198,7 @@
     "category": "Dancing",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Pinsir",
@@ -1249,7 +1249,7 @@
     "category": "Wild Bull",
     "gender": "male",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Paldean Tauros (Blaze Breed)",
@@ -1275,7 +1275,7 @@
     "category": "Wild Bull",
     "gender": "male",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Paldean Tauros (Blaze Aqua)",
@@ -1302,7 +1302,7 @@
     "category": "Wild Bull",
     "gender": "male",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Gyarados",
@@ -1355,7 +1355,7 @@
     "category": "Transport",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Gigantamax Eevee",
@@ -1377,7 +1377,7 @@
     "category": "Evolution",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Aerodactyl",
@@ -1426,7 +1426,7 @@
     "category": "Sleeping",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Articuno",
@@ -1453,7 +1453,7 @@
     "category": "Cruel",
     "gender": "unknown",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Zapdos",
@@ -1480,7 +1480,7 @@
     "category": "Strong Legs",
     "gender": "unknown",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Galarian Moltres",
@@ -1506,7 +1506,7 @@
     "category": "Malevolent",
     "gender": "unknown",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Mega Mewtwo X",

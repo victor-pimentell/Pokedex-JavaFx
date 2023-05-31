@@ -75,7 +75,7 @@
     "category": "Seed",
     "gender": "both",
     "mega": true,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Charmander",
@@ -148,7 +148,7 @@
     "category": "Flame",
     "gender": "both",
     "mega": true,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Squirtle",
@@ -217,7 +217,7 @@
     "category": "Shellfish",
     "gender": "both",
     "mega": true,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Caterpie",
@@ -292,7 +292,7 @@
     "category": "Butterfly",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Weedle",
@@ -467,7 +467,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Raticate",
@@ -489,7 +489,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Spearow",
@@ -607,7 +607,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Raichu",
@@ -629,7 +629,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Sandshrew",
@@ -653,7 +653,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Sandslash",
@@ -677,7 +677,7 @@
     "category": "Mouse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Nidoran",
@@ -891,7 +891,7 @@
     "category": "Fox",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Ninetales",
@@ -915,7 +915,7 @@
     "category": "Fox",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Jigglypuff",
@@ -1226,7 +1226,7 @@
     "category": "Mole",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Dugtrio",
@@ -1250,7 +1250,7 @@
     "category": "Mole",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Meowth",
@@ -1272,7 +1272,7 @@
     "category": "Scratch Cat",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Persian",
@@ -1294,7 +1294,7 @@
     "category": "Classy Cat",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Psyduck",
@@ -1412,7 +1412,7 @@
     "category": "Puppy",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Arcanine",
@@ -1436,7 +1436,7 @@
     "category": "Legendary",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Poliwag",
@@ -1653,7 +1653,7 @@
     "category": "Superpower",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Bellsprout",
@@ -1809,7 +1809,7 @@
     "category": "Rock",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Graveler",
@@ -1837,7 +1837,7 @@
     "category": "Rock",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Golem",
@@ -1865,7 +1865,7 @@
     "category": "Megaton",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Ponyta",
@@ -1889,7 +1889,7 @@
     "category": "Fire Horse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Rapidash",
@@ -1913,7 +1913,7 @@
     "category": "Fire Horse",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Slowpoke",
@@ -1940,7 +1940,7 @@
     "category": "Dopey",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Slowbro",
@@ -1967,7 +1967,7 @@
     "category": "Hermit Crab",
     "gender": "both",
     "mega": true,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Magnemite",
@@ -2042,7 +2042,7 @@
     "category": "Wild Duck",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Doduo",
@@ -2166,7 +2166,7 @@
     "category": "Sludge",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Muk",
@@ -2189,7 +2189,7 @@
     "category": "Sludge",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Shellder",
@@ -2318,7 +2318,7 @@
     "category": "Shadow",
     "gender": "both",
     "mega": true,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Onix",
@@ -2444,7 +2444,7 @@
     "category": "Pincer",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Voltorb",
@@ -2466,7 +2466,7 @@
     "category": "Ball",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Electrode",
@@ -2488,7 +2488,7 @@
     "category": "Ball",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Exeggcute",
@@ -2546,7 +2546,7 @@
     "category": "Coconut",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Cubone",
@@ -2594,7 +2594,7 @@
     "category": "Bone Keeper",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Hitmonlee",
@@ -2710,7 +2710,7 @@
     "category": "Poison Gas",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Rhyhorn",
@@ -3003,7 +3003,7 @@
     "category": "Barrier",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Scyther",
@@ -3125,7 +3125,7 @@
     "weight": "55.0 kg",
     "category": "Stag Beetle",
     "gender": "both",
-    "mega": false,
+    "mega": true,
     "alternativeVersion": false
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "Wild Bull",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Magikarp",
@@ -3221,7 +3221,7 @@
     "category": "Transport",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Ditto",
@@ -3265,7 +3265,7 @@
     "category": "Evolution",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Vaporeon",
@@ -3509,7 +3509,7 @@
     "category": "Sleeping",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Articuno",
@@ -3535,7 +3535,7 @@
     "category": "Freeze",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Zapdos",
@@ -3559,7 +3559,7 @@
     "category": "Electric",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Moltres",
@@ -3584,7 +3584,7 @@
     "category": "Flame",
     "gender": "both",
     "mega": false,
-    "alternativeVersion": false
+    "alternativeVersion": true
   },
   {
     "name": "Dratini",
@@ -3681,7 +3681,7 @@
     "weight": "122.0 kg",
     "category": "Genetic",
     "gender": "both",
-    "mega": false,
+    "mega": true,
     "alternativeVersion": false
   },
   {

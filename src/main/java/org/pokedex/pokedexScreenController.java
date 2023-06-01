@@ -14,6 +14,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 import javafx.util.converter.IntegerStringConverter;
+
 import org.pokemon.Pokemon;
 import org.pokemon.PokemonController;
 
@@ -24,18 +25,37 @@ import java.util.List;
 public class pokedexScreenController {
 
     @FXML
-    private ImageView backgroundImageView;
-
-    @FXML
     private Button rightButton;
 
     @FXML
     private Button leftButton;
+
     @FXML
-    private Button shinyButtons;
+    private Button shinyButton;
 
     @FXML
     private Button startButton;
+
+    @FXML
+    private Button getMegaListButton;
+
+    @FXML
+    private Button getMegaListButton2;
+
+    @FXML
+    private Button downMega;
+
+    @FXML
+    private Button upMega;
+
+    @FXML
+    private Button stopButton;
+
+    @FXML
+    private Button searchButton;
+
+    @FXML
+    private Button tutorialButton;
 
     @FXML
     private Label nameLabel;
@@ -45,18 +65,13 @@ public class pokedexScreenController {
 
     @FXML
     private Label typeOneLabel;
+
     @FXML
     private Label typeTwoLabel;
+
     @FXML
-    private Pane paneBackground;
-    @FXML
-    private ImageView photoFrame;
-    @FXML
-    private ImageView typeIconOne;
-    @FXML
-    private ImageView typeIconTwo;
-    @FXML
-    private Label waeknessesLabel;
+    private Label waeknessesText;
+
     @FXML
     private Label weaknessesLabelOne;
 
@@ -74,8 +89,49 @@ public class pokedexScreenController {
 
     @FXML
     private Label weaknessesLabelSix;
+
+    @FXML
+    private Label regionLabel;
+
+    @FXML
+    private Label generationLabel;
+
+    @FXML
+    private Label heightText;
+
+    @FXML
+    private Label weightText;
+
+    @FXML
+    private Label categoryText;
+
+    @FXML
+    private Label genderText;
+
+    @FXML
+    private Label heightLabel;
+
+    @FXML
+    private Label genderLabel;
+
+    @FXML
+    private Label weightLabel;
+
+    @FXML
+    private Label categoryLabel;
+
+    @FXML
+    private ImageView photoFrame;
+
+    @FXML
+    private ImageView typeIconOne;
+
+    @FXML
+    private ImageView typeIconTwo;
+
     @FXML
     private ImageView weaknessesIconOne;
+
     @FXML
     private ImageView weaknessesIconTwo;
 
@@ -92,51 +148,7 @@ public class pokedexScreenController {
     private ImageView weaknessesIconSix;
 
     @FXML
-    private Label regionLabel;
-
-    @FXML
-    private Label generationLabel;
-
-    @FXML
-    private Button getMegaListButton;
-
-    @FXML
-    private Button getMegaListButton2;
-
-    @FXML
-    private Button downMega;
-
-    @FXML
-    private Button upMega;
-
-    @FXML
     private ImageView regionImage;
-
-    @FXML
-    private Label heightText;
-
-    @FXML
-    private Label weightText;
-
-    @FXML
-    private Label categoryText;
-
-    @FXML
-    private Label genderText;
-
-    private List<Pokemon> pokemons;
-
-    @FXML
-    private Label heightLabel;
-
-    @FXML
-    private Label genderLabel;
-
-    @FXML
-    private Label weightLabel;
-
-    @FXML
-    private Label categoryLabel;
 
     @FXML
     private ImageView genderIcon;
@@ -145,41 +157,47 @@ public class pokedexScreenController {
     private ImageView megaSymbol;
 
     @FXML
-    private Button myButton;
-
-    @FXML
-    private TextField searchText;
-
-    @FXML
-    private Button search;
-
-    @FXML
     private ImageView alternativeIcon;
 
     @FXML
-    private Button tutorialButton;
+    private Pane paneBackground;
 
-    private PokemonController controller = new PokemonController();
-    private Pokemon i;
-    private int index = 0;
-    private int megaIndex = 0;
-    private String[] typesPart;
-    private int shinyButtonMemory = 0;
+    @FXML
+    private TextField searchTextField;
+
+    private List<Pokemon> pokemons;
+
     private List<Pokemon> megaPokemons;
+
+    private Pokemon i;
+
+    private int index = 0;
+
+    private int megaIndex = 0;
+
+    private int shinyButtonMemory = 0;
+
     private ArrayList<Pokemon> matchingObjects = new ArrayList<Pokemon>();
 
     public void start(ActionEvent event) throws IOException {
-        setButtons();
+        /*O método start inicia o progrma, utilizando de métodos em outra classe para extrair
+        * dos arquivos JSON as informações dos Pokemons e as alocar em ArrayLists*/
+        PokemonController controller = new PokemonController();
         pokemons = controller.createPokedexData();
         megaPokemons = controller.createMegaPokemonData();
+
+        //Além disso, o método start utiliza os seguintes métodos para organizar a interface inicial.
+        setButtons();
         onlyNumbers();
+
         i = pokemons.get(index);
+
         updateLabels();
         imageUpdate();
     }
 
     public void setSearch(ActionEvent event) {
-        String numero = searchText.getText();
+        String numero = searchTextField.getText();
         if (!numero.equals("")) {
             int n = Integer.parseInt(numero);
             if (n - 1 > 0 && n - 1 < pokemons.size()) {
@@ -189,30 +207,37 @@ public class pokedexScreenController {
                 imageUpdate();
                 cleanMega();
                 megaIndex = 0;
-                searchText.setText(numero);
+                searchTextField.setText(numero);
             } else {
-                searchText.setText("0");
+                searchTextField.setText("0");
             }
         }
     }
 
     public void setButtons() {
+        /* O método setButtons torna visivel os elementos da interface, como botões, labels e icones.
+        * Além disso, ele torna o botão start invisível.*/
         leftButton.setVisible(true);
         rightButton.setVisible(true);
-        startButton.setVisible(false);
-        waeknessesLabel.setVisible(true);
-        shinyButtons.setVisible(true);
+        shinyButton.setVisible(true);
+
         regionImage.setVisible(true);
+
         heightText.setVisible(true);
         weightText.setVisible(true);
         categoryText.setVisible(true);
         genderText.setVisible(true);
-        startButton.setVisible(false);
-        myButton.setVisible(true);
-        search.setVisible(true);
-        searchText.setVisible(true);
+        waeknessesText.setVisible(true);
+
+        searchButton.setVisible(true);
+        searchTextField.setVisible(true);
+
+        // Esse dois botões tem o mesmo propósito, encontrar versões alternativas do pokemon mostrado.
         getMegaListButton.setVisible(true);
         getMegaListButton2.setVisible(true);
+
+        stopButton.setVisible(true);
+        startButton.setVisible(false);
     }
 
     public void rightButton() {
@@ -242,22 +267,26 @@ public class pokedexScreenController {
     }
 
     public void updateLabels() {
+        //Esse método coloca as informações do pokemon em suas devidas Labels.
         nameLabel.setText(i.getName());
-        verifyNameSize(i.getName());
         numberLabel.setText("N°" + i.getNumber());
         regionLabel.setText(i.getRegion());
         generationLabel.setText(i.getGeneration() + "° GENERATION");
-        typeUpdade();
-        weaknessesUpadate();
         paneBackground.setStyle("-fx-background-color: "+ i.getBackGroundColor() +";");
         heightLabel.setText(i.getHeight());
         weightLabel.setText(i.getWeight());
         categoryLabel.setText(i.getCategory());
+
+        verifyNameSize(i.getName());
+        typeUpdade();
+        weaknessesUpadate();
         genderUpdate();
         megaIconUpdate();
     }
 
     public void verifyNameSize(String name) {
+        /* Esse método verifica o tamanho do nome, caso ele seja muito grande a interface é ajustada,
+        * para que as labels não fiquem uma em cima da outra.*/
         if (name.length() > 19) {
             nameLabel.setLayoutX(449);
             nameLabel.setLayoutY(189);
@@ -272,6 +301,7 @@ public class pokedexScreenController {
     }
 
     public void typeUpdade() {
+        String[] typesPart;
         String splitInTwo = i.getType().toString();
         splitInTwo = splitInTwo.replace("[", "");
         splitInTwo = splitInTwo.replace("]", "");
@@ -605,6 +635,8 @@ public class pokedexScreenController {
     }
 
     public void onlyNumbers() {
+        /*Esse método tem a função de garantir que apenas números possam ser digitados na área de pesquisa.
+        *(searchTextField)*/
         String pattern = "\\d*";
         TextFormatter<Integer> textFormatter = new TextFormatter<>(
                 new IntegerStringConverter(),
@@ -616,7 +648,7 @@ public class pokedexScreenController {
                         return null;
                     }
                 });
-        searchText.setTextFormatter(textFormatter);
+        searchTextField.setTextFormatter(textFormatter);
     }
 
     @FXML

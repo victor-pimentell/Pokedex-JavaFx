@@ -11,7 +11,7 @@
 
 <AnchorPane prefHeight="525.0" prefWidth="696.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.pokedex.pokedexScreenController">
    <children>
-      <ImageView fx:id="backgroundImageView" fitHeight="525.0" fitWidth="743.0" layoutX="9.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="525.0" fitWidth="743.0" layoutX="9.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../UIassets/pokedexBackground.png" />
          </image>
@@ -35,13 +35,13 @@
             </ImageView>
          </children>
       </Pane>
-      <Button fx:id="myButton" alignment="CENTER" contentDisplay="CENTER" layoutX="62.0" layoutY="371.0" mnemonicParsing="false" onAction="#close" prefHeight="59.0" prefWidth="41.0" stylesheets="@../cssStyle/buttons.css" textAlignment="CENTER" visible="false">
+      <Button fx:id="stopButton" alignment="CENTER" contentDisplay="CENTER" layoutX="62.0" layoutY="371.0" mnemonicParsing="false" onAction="#close" prefHeight="37.0" prefWidth="37.0" stylesheets="@../cssStyle/buttons.css" textAlignment="CENTER" visible="false">
          <graphic>
             <FontIcon fx:id="myIcon" iconLiteral="typ-power" iconSize="17" />
          </graphic></Button>
       <ImageView fx:id="typeIconOne" fitHeight="20.0" fitWidth="20.0" layoutX="446.0" layoutY="347.0" pickOnBounds="true" preserveRatio="true" />
       <ImageView fx:id="typeIconTwo" fitHeight="20.0" fitWidth="20.0" layoutX="544.0" layoutY="348.0" pickOnBounds="true" preserveRatio="true" />
-      <Label fx:id="waeknessesLabel" layoutX="539.0" layoutY="400.0" stylesheets="@../cssStyle/labels.css" text="Weaknesses" textFill="WHITE" visible="false" />
+      <Label fx:id="waeknessesText" layoutX="539.0" layoutY="400.0" stylesheets="@../cssStyle/labels.css" text="Weaknesses" textFill="WHITE" visible="false" />
       <Label fx:id="weaknessesLabelOne" layoutX="454.0" layoutY="440.0" prefHeight="17.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
       <Label fx:id="weaknessesLabelTwo" layoutX="490.0" layoutY="440.0" prefHeight="17.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
       <Label fx:id="weaknessesLabelThree" layoutX="531.0" layoutY="440.0" prefWidth="34.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
@@ -61,7 +61,7 @@
       </ImageView>
       <Label fx:id="regionLabel" layoutX="264.0" layoutY="166.0" prefHeight="18.0" prefWidth="51.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
       <Label fx:id="generationLabel" alignment="CENTER" layoutX="61.0" layoutY="425.0" prefHeight="37.0" prefWidth="129.0" stylesheets="@../cssStyle/labels.css" textFill="WHITE" />
-      <Button fx:id="shinyButtons" layoutX="253.0" layoutY="409.0" mnemonicParsing="false" onAction="#shinyUpdate" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
+      <Button fx:id="shinyButton" layoutX="253.0" layoutY="409.0" mnemonicParsing="false" onAction="#shinyUpdate" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
       <Button fx:id="getMegaListButton" layoutX="253.0" layoutY="435.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
       <Button fx:id="getMegaListButton2" layoutX="252.0" layoutY="383.0" mnemonicParsing="false" onAction="#getMegaList" opacity="0.0" prefHeight="25.0" prefWidth="27.0" visible="false" />
       <Button fx:id="downMega" layoutX="253.0" layoutY="435.0" mnemonicParsing="false" onAction="#megadown" opacity="0.0" prefHeight="0.0" prefWidth="27.0" visible="false" />
@@ -76,8 +76,8 @@
       <Label fx:id="categoryLabel" layoutX="623.0" layoutY="294.0" prefHeight="21.0" prefWidth="61.0" stylesheets="@../cssStyle/labels.css" />
       <ImageView fx:id="genderIcon" fitHeight="26.0" fitWidth="41.0" layoutX="506.0" layoutY="291.0" pickOnBounds="true" preserveRatio="true" />
       <ImageView fx:id="megaSymbol" fitHeight="22.0" fitWidth="22.0" layoutX="96.0" layoutY="330.0" pickOnBounds="true" preserveRatio="true" />
-      <TextField fx:id="searchText" layoutX="152.0" layoutY="326.0" prefHeight="31.0" prefWidth="51.0" stylesheets="@../cssStyle/labels.css" visible="false" />
-      <Button fx:id="search" layoutX="200.0" layoutY="332.0" mnemonicParsing="false" onAction="#setSearch" opacity="0.0" prefHeight="17.0" prefWidth="20.0" visible="false">
+      <TextField fx:id="searchTextField" layoutX="152.0" layoutY="326.0" prefHeight="31.0" prefWidth="51.0" stylesheets="@../cssStyle/labels.css" visible="false" />
+      <Button fx:id="searchButton" layoutX="200.0" layoutY="332.0" mnemonicParsing="false" onAction="#setSearch" opacity="0.0" prefHeight="17.0" prefWidth="20.0" visible="false">
          <graphic>
             <FontIcon iconLiteral="typ-zoom" wrappingWidth="9.0" />
          </graphic>

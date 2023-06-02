@@ -55,9 +55,6 @@ public class pokedexScreenController {
     private Button searchButton;
 
     @FXML
-    private Button tutorialButton;
-
-    @FXML
     private Label nameLabel;
 
     @FXML
@@ -301,6 +298,9 @@ public class pokedexScreenController {
     }
 
     public void typeUpdade() {
+        /* O método typeUpdate recebe uma string contendo o tipo do pokemon, separa o conteudo e o coloca
+        * em um Array. Em seguida ele testa se o pokemon tem um ou dois tipos e insere o tipo em uma das
+        * labels.*/
         String[] typesPart;
         String splitInTwo = i.getType().toString();
         splitInTwo = splitInTwo.replace("[", "");
@@ -308,14 +308,16 @@ public class pokedexScreenController {
         typesPart = splitInTwo.split(", ", 2);
         if (typesPart.length == 1) {
             typeOneLabel.setText(typesPart[0]);
-            ColorandIcon(typeOneLabel, typesPart[0], typeIconOne);
+            ColorAndIcon(typeOneLabel, typesPart[0], typeIconOne);
+
             typeIconTwo.setImage(null);
             typeTwoLabel.setText("");
         } else {
             typeOneLabel.setText(typesPart[0]);
-            ColorandIcon(typeOneLabel, typesPart[0], typeIconOne);
+            ColorAndIcon(typeOneLabel, typesPart[0], typeIconOne);
+
             typeTwoLabel.setText(typesPart[1]);
-            ColorandIcon(typeTwoLabel, typesPart[1], typeIconTwo);
+            ColorAndIcon(typeTwoLabel, typesPart[1], typeIconTwo);
         }
     }
 
@@ -332,7 +334,7 @@ public class pokedexScreenController {
         if (weaknessesPart.length == 1) {
             clean();
             weaknessesLabelOne.setText(weaknessesPart[0]);
-            ColorandIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
+            ColorAndIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
             //Reposicionando label
             weaknessesLabelOne.setLayoutX(547);
             // Icon recebe a posição da label ao qual pertence + 6, para corrigir uma diferença no
@@ -342,121 +344,123 @@ public class pokedexScreenController {
         } else if (weaknessesPart.length == 2) {
             clean();
             weaknessesLabelOne.setText(weaknessesPart[0]);
-            ColorandIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
+            ColorAndIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
             //Reposicionando label and icon
             weaknessesLabelOne.setLayoutX(522);
             weaknessesIconOne.setLayoutX(522+6);
             //Reposicionando label and icon
             weaknessesLabelTwo.setText(weaknessesPart[1]);
-            ColorandIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
+            ColorAndIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
             weaknessesIconTwo.setLayoutX(572+6);
             weaknessesLabelTwo.setLayoutX(572);
 
         } else if (weaknessesPart.length == 3) {
             clean();
             weaknessesLabelOne.setText(weaknessesPart[0]);
-            ColorandIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
+            ColorAndIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
             //Reposicionando label and icon
             weaknessesLabelOne.setLayoutX(507);
             weaknessesIconOne.setLayoutX(507+6);
             //Reposicionando label and icon
             weaknessesLabelTwo.setText(weaknessesPart[1]);
             weaknessesLabelTwo.setLayoutX(547);
-            ColorandIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
+            ColorAndIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
             weaknessesIconTwo.setLayoutX(547+6);
             //Reposicionando label and icon
             weaknessesLabelThree.setText(weaknessesPart[2]);
-            ColorandIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
+            ColorAndIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
             weaknessesIconThree.setLayoutX(590+6);
             weaknessesLabelThree.setLayoutX(590);
 
         } else if (weaknessesPart.length == 4) {
             clean();
             weaknessesLabelOne.setText(weaknessesPart[0]);
-            ColorandIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
+            ColorAndIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
             //Reposicionando label and icon
             weaknessesLabelOne.setLayoutX(473);
             weaknessesIconOne.setLayoutX(473+6);
             //Reposicionando label and icon
             weaknessesLabelTwo.setText(weaknessesPart[1]);
             weaknessesLabelTwo.setLayoutX(522);
-            ColorandIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
+            ColorAndIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
             weaknessesIconTwo.setLayoutX(522+6);
             //Reposicionando label and icon
             weaknessesLabelThree.setText(weaknessesPart[2]);
             weaknessesLabelThree.setLayoutX(572);
-            ColorandIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
+            ColorAndIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
             weaknessesIconThree.setLayoutX(572+6);
             //Reposicionando label and icon
             weaknessesLabelFour.setText(weaknessesPart[3]);
             weaknessesLabelFour.setLayoutX(621);
-            ColorandIcon(weaknessesLabelFour, weaknessesPart[3], weaknessesIconFour);
+            ColorAndIcon(weaknessesLabelFour, weaknessesPart[3], weaknessesIconFour);
             weaknessesIconFour.setLayoutX(621+6);
 
         } else if (weaknessesPart.length == 5) {
             clean();
             weaknessesLabelOne.setText(weaknessesPart[0]);
-            ColorandIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
+            ColorAndIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
             //Reposicionando label and icon
             weaknessesLabelOne.setLayoutX(462);
             weaknessesIconOne.setLayoutX(462+6);
             //Reposicionando label and icon
             weaknessesLabelTwo.setText(weaknessesPart[1]);
             weaknessesLabelTwo.setLayoutX(505);
-            ColorandIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
+            ColorAndIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
             weaknessesIconTwo.setLayoutX(505+6);
             //Reposicionando label and icon
             weaknessesLabelThree.setText(weaknessesPart[2]);
             weaknessesLabelThree.setLayoutX(547);
-            ColorandIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
+            ColorAndIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
             weaknessesIconThree.setLayoutX(547+6);
             //Reposicionando label and icon
             weaknessesLabelFour.setText(weaknessesPart[3]);
             weaknessesLabelFour.setLayoutX(590);
-            ColorandIcon(weaknessesLabelFour, weaknessesPart[3], weaknessesIconFour);
+            ColorAndIcon(weaknessesLabelFour, weaknessesPart[3], weaknessesIconFour);
             weaknessesIconFour.setLayoutX(590+6);
             //Reposicionando label and icon
             weaknessesLabelFive.setText(weaknessesPart[4]);
             weaknessesLabelFive.setLayoutX(633);
-            ColorandIcon(weaknessesLabelFive, weaknessesPart[4], weaknessesIconFive);
+            ColorAndIcon(weaknessesLabelFive, weaknessesPart[4], weaknessesIconFive);
             weaknessesIconFive.setLayoutX(633+6);
 
         } else if (weaknessesPart.length == 6) {
             clean();
             weaknessesLabelOne.setText(weaknessesPart[0]);
-            ColorandIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
+            ColorAndIcon(weaknessesLabelOne, weaknessesPart[0], weaknessesIconOne);
             //Reposicionando label and icon
             weaknessesLabelOne.setLayoutX(447);
             weaknessesIconOne.setLayoutX(447+6);
             //Reposicionando label and icon
             weaknessesLabelTwo.setText(weaknessesPart[1]);
             weaknessesLabelTwo.setLayoutX(486);
-            ColorandIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
+            ColorAndIcon(weaknessesLabelTwo, weaknessesPart[1], weaknessesIconTwo);
             weaknessesIconTwo.setLayoutX(486+6);
             //Reposicionando label and icon
             weaknessesLabelThree.setText(weaknessesPart[2]);
             weaknessesLabelThree.setLayoutX(526);
-            ColorandIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
+            ColorAndIcon(weaknessesLabelThree, weaknessesPart[2], weaknessesIconThree);
             weaknessesIconThree.setLayoutX(526+6);
             //Reposicionando label and icon
             weaknessesLabelFour.setText(weaknessesPart[3]);
             weaknessesLabelFour.setLayoutX(567);
-            ColorandIcon(weaknessesLabelFour, weaknessesPart[3], weaknessesIconFour);
+            ColorAndIcon(weaknessesLabelFour, weaknessesPart[3], weaknessesIconFour);
             weaknessesIconFour.setLayoutX(567+6);
             //Reposicionando label and icon
             weaknessesLabelFive.setText(weaknessesPart[4]);
             weaknessesLabelFive.setLayoutX(608);
-            ColorandIcon(weaknessesLabelFive, weaknessesPart[4], weaknessesIconFive);
+            ColorAndIcon(weaknessesLabelFive, weaknessesPart[4], weaknessesIconFive);
             weaknessesIconFive.setLayoutX(608+6);
             //Reposicionando label and icon
             weaknessesLabelSix.setText(weaknessesPart[5]);
             weaknessesLabelSix.setLayoutX(647);
-            ColorandIcon(weaknessesLabelSix, weaknessesPart[5], weaknessesIconSix);
+            ColorAndIcon(weaknessesLabelSix, weaknessesPart[5], weaknessesIconSix);
             weaknessesIconSix.setLayoutX(647+6);
         }
     }
-    public void ColorandIcon(Label label, String color, ImageView image) {
-        switch (color) {
+    public void ColorAndIcon(Label label, String tipo, ImageView image) {
+        /*O método ColorAndIcon recebe a label que ele deve modificar, o tipo que ele deve levar em
+        * consideração e o ImageView que ele deve colocar o icone referente ao tipo.*/
+        switch (tipo) {
             case "Fire":
                 label.setStyle("-fx-text-fill: #ff9c54;");
                 image.setImage(new Image("/typeIcon/Fire_icon.png"));

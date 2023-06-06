@@ -157,6 +157,12 @@ public class pokedexScreenController {
     private ImageView alternativeIcon;
 
     @FXML
+    private ImageView startIcon;
+
+    @FXML
+    private ImageView stopIcon;
+
+    @FXML
     private Pane paneBackground;
 
     @FXML
@@ -235,6 +241,8 @@ public class pokedexScreenController {
 
         stopButton.setVisible(true);
         startButton.setVisible(false);
+        startIcon.setVisible(false);
+        stopIcon.setVisible(true);
     }
 
     public void rightButton() {

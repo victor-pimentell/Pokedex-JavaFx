@@ -18,10 +18,8 @@ Pokedex desenvolvida em Java, utilizando JavaFX. A aplicação permite visualiza
 
 Essa foi o um dos meus primeiros projeto, agora percebo que o código está bem confuso, além de mal dividido e organizado. Talvez no futuro eu possa refatorar o código deixando mais simples, ou até implementar algum padrão de projeto.
 
-## Autores
-
-- [@ViictorP](https://www.github.com/ViictorP)
-
+## Assets
+Background art by [Justinmezzell](http://justinmezzell.com/)
 
 ## Licença
 
